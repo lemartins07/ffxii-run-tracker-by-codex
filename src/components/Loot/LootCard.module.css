@@ -1,0 +1,18 @@
+.card {
+  border: 1px solid var(--page-border, #e2e8f0);
+  border-radius: 0.75rem;
+  padding: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.parent {
+  color: #475569;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding-left: 1rem;
+}

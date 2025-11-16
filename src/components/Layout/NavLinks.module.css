@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.link,
+.active {
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-size: 0.9rem;
+}
+
+.link {
+  background: transparent;
+  border-color: transparent;
+}
+
+.active {
+  border-color: var(--page-border, #e2e8f0);
+  background: rgba(59, 130, 246, 0.12);
+}

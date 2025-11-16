@@ -1,0 +1,15 @@
+.wrapper {
+  border: 1px solid var(--page-border, #e2e8f0);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  background: var(--page-card, #fff);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
