@@ -1,0 +1,41 @@
+.card {
+  border: 1px solid var(--page-border, #e2e8f0);
+  border-radius: 1rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: var(--page-card, #fff);
+}
+
+.card[data-achieved='true'] {
+  border-color: #22c55e;
+}
+
+.header {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.icon {
+  font-size: 1.75rem;
+}
+
+.progressBar {
+  width: 100%;
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(148, 163, 184, 0.4);
+}
+
+.progressBar div {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #0ea5e9, #22d3ee);
+}
+
+.meta {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #475569;
+}

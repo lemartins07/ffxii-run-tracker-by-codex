@@ -1,0 +1,10 @@
+.wrapper {
+  margin-bottom: 1rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--page-border, #cbd5f5);
+}

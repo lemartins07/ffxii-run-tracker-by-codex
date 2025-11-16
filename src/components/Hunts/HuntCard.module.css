@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid var(--page-border, #e2e8f0);
+  border-radius: 0.75rem;
+  padding: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.areaLink {
+  font-size: 0.85rem;
+  color: #3b82f6;
+}
+
+.checklist {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}

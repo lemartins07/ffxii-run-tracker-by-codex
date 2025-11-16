@@ -1,0 +1,54 @@
+.wrapper {
+  position: relative;
+  flex: 1;
+  min-width: 220px;
+}
+
+.input {
+  width: 100%;
+  padding: 0.4rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--page-border, #cbd5f5);
+  background: var(--page-card, #fff);
+  color: inherit;
+}
+
+.popover {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: var(--page-card, #fff);
+  border: 1px solid var(--page-border, #e2e8f0);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.2);
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.category {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0.5rem 0;
+}
+
+.resultButton {
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  padding: 0.35rem 0;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.resultButton span {
+  font-weight: 600;
+}
+
+.resultButton small {
+  color: #64748b;
+}

@@ -1,0 +1,21 @@
+.gallery {
+  margin-top: 1rem;
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+
+figure {
+  margin: 0;
+  border: 1px solid var(--page-border, #e2e8f0);
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+figcaption {
+  padding: 0.5rem;
+  font-size: 0.85rem;
+}

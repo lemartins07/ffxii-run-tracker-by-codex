@@ -1,0 +1,7 @@
+.button {
+  border-radius: 999px;
+  border: 1px solid var(--page-border, #cbd5f5);
+  padding: 0.35rem 0.8rem;
+  background: transparent;
+  cursor: pointer;
+}
