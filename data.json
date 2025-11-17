@@ -2405,30 +2405,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ポーション (Potion) 7 of the 10 pots at 砂段の丘 (The Stepping) have Potions."
-        },
-        {
-          "kind": "paragraph",
-          "text": "フェニックスの尾 (Phoenix Down) 砂段の丘 (The Stepping), northwesternmost pot. Pot stats: 75% to appear, 35% gil, contents: Phoenix Down / Phoenix Down"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ハイポーション (Hi-Potion) 小キャンプ (Outpost), along the northern wall. Pot stats: 15% to appear, 60% gil, contents: Hi-Potion / Hi-Potion"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ファイアフライ (Firefly) 小キャンプ (Outpost), far eastern wall. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "When equipped, the ファイアフライ (Firefly) accessory does not allow the character equipped with it to gain experience. It sells for 800 gil, which at this early point in the game may help you buy some weapons, armor, or spells for your characters."
-        },
-        {
-          "kind": "paragraph",
           "text": "Explore around for items and enemies to fight. Make sure you avoid the ワイルドザウルス (Wild Saurian)! It's the big green dinosaur with a green life bar. At around the middle of the area is the はぐれトマト (Rogue Tomato). Before fighting it, you can check out the next screen to the north, the 小キャンプ (Outpost)."
         },
         {
@@ -2450,6 +2426,13 @@
         "phoenix-down",
         "hi-potion",
         "firefly"
+      ],
+      "possibleUsefulItems": [
+        "ポーション (Potion) 7 of the 10 pots at 砂段の丘 (The Stepping) have Potions.",
+        "フェニックスの尾 (Phoenix Down) 砂段の丘 (The Stepping), northwesternmost pot. Pot stats: 75% to appear, 35% gil, contents: Phoenix Down / Phoenix Down",
+        "ハイポーション (Hi-Potion) 小キャンプ (Outpost), along the northern wall. Pot stats: 15% to appear, 60% gil, contents: Hi-Potion / Hi-Potion",
+        "ファイアフライ (Firefly) 小キャンプ (Outpost), far eastern wall. Pot stats: 100% to appear (no respawn after opening)",
+        "When equipped, the ファイアフライ (Firefly) accessory does not allow the character equipped with it to gain experience. It sells for 800 gil, which at this early point in the game may help you buy some weapons, armor, or spells for your characters."
       ]
     },
     "wt03b": {
@@ -2608,30 +2591,6 @@
       "narrative": [
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "フェニックスの尾 (Phoenix Down) Northeastern part of ダウンタウン北部 (North Sprawl), by the person icon. Pot stats: 40% to appear, 50% gil, contents: Phoenix Down / Phoenix Down"
-        },
-        {
-          "kind": "paragraph",
-          "text": "目薬 (Eye Drops) Center of ダウンタウン北部 (North Sprawl), north of the southern shop. Pot stats: 50% to appear, 50% gil, contents: Eye Drops / Eye Drops"
-        },
-        {
-          "kind": "paragraph",
-          "text": "毒消し (Antidote) Can show up on both areas of lowtown. First spot is southwest of the Eye Drops pot, second spot is west of the shop at ダウンタウン南部 (South Sprawl). Pot 1 stats: 50% to appear, 50% gil, contents: Antidote / Antidote"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Pot 2 stats: 50% to appear, 50% gil, contents: Antidote / Antidote"
-        },
-        {
-          "kind": "paragraph",
-          "text": "やまびこ草 (Echo Herbs) Found at the southeastern part of lowtown, across from Dalan's house. Pot stats: 50% to appear, 50% gil, contents: Echo Herbs / Echo Herbs"
-        },
-        {
-          "kind": "paragraph",
           "text": "Head to the southern section of lowtown. Enter the house (icon with a person on it) to get to Dalan's house."
         },
         {
@@ -2653,6 +2612,13 @@
         "phoenix-down",
         "north-sprawl",
         "south-sprawl"
+      ],
+      "possibleUsefulItems": [
+        "フェニックスの尾 (Phoenix Down) Northeastern part of ダウンタウン北部 (North Sprawl), by the person icon. Pot stats: 40% to appear, 50% gil, contents: Phoenix Down / Phoenix Down",
+        "目薬 (Eye Drops) Center of ダウンタウン北部 (North Sprawl), north of the southern shop. Pot stats: 50% to appear, 50% gil, contents: Eye Drops / Eye Drops",
+        "毒消し (Antidote) Can show up on both areas of lowtown. First spot is southwest of the Eye Drops pot, second spot is west of the shop at ダウンタウン南部 (South Sprawl). Pot 1 stats: 50% to appear, 50% gil, contents: Antidote / Antidote",
+        "Pot 2 stats: 50% to appear, 50% gil, contents: Antidote / Antidote",
+        "やまびこ草 (Echo Herbs) Found at the southeastern part of lowtown, across from Dalan's house. Pot stats: 50% to appear, 50% gil, contents: Echo Herbs / Echo Herbs"
       ]
     },
     "wt05a": {
@@ -2918,14 +2884,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダークの魔片 (Dark Mote) Found at 星ふり原 (Starfall Field), right next to the vertical bridge. Pot stats: 70% to appear, 45% gil, contents: Dark Mote / Dark Mote"
-        },
-        {
-          "kind": "paragraph",
           "text": "If you bought the map of the Giza Plains from the map moogle in Rabanastre, you can press select and view the whole map. Without buying a map, the area will fill in as you explore it. Explore the first area if you want, then go south."
         },
         {
@@ -3017,6 +2975,9 @@
         "masyua",
         "knot-of-rust",
         "slasher"
+      ],
+      "possibleUsefulItems": [
+        "ダークの魔片 (Dark Mote) Found at 星ふり原 (Starfall Field), right next to the vertical bridge. Pot stats: 70% to appear, 45% gil, contents: Dark Mote / Dark Mote"
       ]
     },
     "wt06a": {
@@ -3077,22 +3038,6 @@
       "narrative": [
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダイヤの腕輪 (Diamond Armlet) Found at 風紋の地 (Windtrace Dunes), on the small \"island\" part. Pot stats: 25% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "The Diamond Armlet is similar to what it did in the original game; you can find a different set of items in pots, but in this version that mainly means サビのカタマリ (Knot of Rust), or a 5% chance of the four various メテオライト (Meteorite)-type items, which are stronger than Knots of Rust. Knots of Rust only sell for about 10 gil each, but they can damage flying monsters. There are even rarer, more powerful items than the Meteorites in a few pots, stuff like ダークエナジー (Dark Energy), but I've never gotten those."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Stocking up can be useful for those jobs that cannot hit flyers to be able to do some form of damage. Also in this version of the game, the Diamond Armlet blocks electricity damage. If anything, keep the Diamond Armlet for the electricity damage null."
-        },
-        {
-          "kind": "paragraph",
           "text": "You can explore this entire area, but be careful, as monsters are much stronger here than at the Estersand and Giza (save the Werewolf monsters)."
         }
       ],
@@ -3105,6 +3050,11 @@
         "onion-shot",
         "onion-bombs",
         "meteorite"
+      ],
+      "possibleUsefulItems": [
+        "ダイヤの腕輪 (Diamond Armlet) Found at 風紋の地 (Windtrace Dunes), on the small \"island\" part. Pot stats: 25% to appear (no respawn after opening)",
+        "The Diamond Armlet is similar to what it did in the original game; you can find a different set of items in pots, but in this version that mainly means サビのカタマリ (Knot of Rust), or a 5% chance of the four various メテオライト (Meteorite)-type items, which are stronger than Knots of Rust. Knots of Rust only sell for about 10 gil each, but they can damage flying monsters. There are even rarer, more powerful items than the Meteorites in a few pots, stuff like ダークエナジー (Dark Energy), but I've never gotten those.",
+        "Stocking up can be useful for those jobs that cannot hit flyers to be able to do some form of damage. Also in this version of the game, the Diamond Armlet blocks electricity damage. If anything, keep the Diamond Armlet for the electricity damage null."
       ]
     },
     "wt06b": {
@@ -3837,21 +3787,12 @@
           "type": "image"
         }
       ],
-      "narrative": [
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "メイス (Mace) Found at 第10主水路 (No. 10 Channel), at the end of the passageway. Pot stats: 70% chance to appear, 45% gil, contents: Phoenix Down / Mace"
-        },
-        {
-          "kind": "paragraph",
-          "text": "The Garamsythe Waterway looks rather maze-like, but it is generally straightforward. There are lots of pots here, mostly with stuff that isn't too good. This is a prime area for stocking up on the Knot of Rust item."
-        }
-      ],
-      "relatedCodes": []
+      "narrative": [],
+      "relatedCodes": [],
+      "possibleUsefulItems": [
+        "メイス (Mace) Found at 第10主水路 (No. 10 Channel), at the end of the passageway. Pot stats: 70% chance to appear, 45% gil, contents: Phoenix Down / Mace",
+        "The Garamsythe Waterway looks rather maze-like, but it is generally straightforward. There are lots of pots here, mostly with stuff that isn't too good. This is a prime area for stocking up on the Knot of Rust item."
+      ]
     },
     "wt10a": {
       "code": "wt10a",
@@ -3912,26 +3853,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダークの魔片 (Dark Mote) Found at 西部水量調整区 (West Sluice Control), in the water. Pot stats: 80% to appear, 35% gil, contents: Dark Mote / Dark Mote"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ロングソード (Longsword) Found at 第10主水路 (No. 10 Channel), east of the long vertical hallway. Pot stats: 70% chance to appear, 40% gil, contents: Hi-Potion / Longsword"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Right down the stairs in the corner is another map for the area. Make sure you grab it. Just go along the path and explore for pots if you want."
-        },
-        {
-          "kind": "paragraph",
-          "text": "At 第11主水路 (No. 11 Channel), you can find three pots at the southern part of the room where you can try stocking up on some weapons to sell and grab Ether. You can find the 虎徹 (Kotetsu) and 樫の棒 (Oaken Pole), which sell for 250 and 225 gil each, and Ethers are pretty handy early on in the game. Grab them if you want, then make your way past the save point and take out the four Imperial Swordsmen."
-        },
-        {
-          "kind": "paragraph",
           "text": "Walk up to アマリア (Amalia) and she'll join as a guest. You can alter guest's gambits now, so set them up how you like, then go to the next room on the left. When you reach the center of the room, you'll be attacked by four プリン (Flan)s. Try to steal from them before killing them, then continue on to the left. You might luck out and nab a サジタリウス (Sagittarius Gem) from them, which can be used later to get the second best bow in the game."
         },
         {
@@ -3957,6 +3878,12 @@
         "longsword",
         "kotetsu",
         "oaken-pole"
+      ],
+      "possibleUsefulItems": [
+        "ダークの魔片 (Dark Mote) Found at 西部水量調整区 (West Sluice Control), in the water. Pot stats: 80% to appear, 35% gil, contents: Dark Mote / Dark Mote",
+        "ロングソード (Longsword) Found at 第10主水路 (No. 10 Channel), east of the long vertical hallway. Pot stats: 70% chance to appear, 40% gil, contents: Hi-Potion / Longsword",
+        "Right down the stairs in the corner is another map for the area. Make sure you grab it. Just go along the path and explore for pots if you want.",
+        "At 第11主水路 (No. 11 Channel), you can find three pots at the southern part of the room where you can try stocking up on some weapons to sell and grab Ether. You can find the 虎徹 (Kotetsu) and 樫の棒 (Oaken Pole), which sell for 250 and 225 gil each, and Ethers are pretty handy early on in the game. Grab them if you want, then make your way past the save point and take out the four Imperial Swordsmen."
       ]
     },
     "wt11a": {
@@ -5234,42 +5161,6 @@
         {
           "kind": "paragraph",
           "text": "算術 (Numerology) Found at 第1運路 (Transitway 1), in the little side path by some traps."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ブロンズメイス (Bronze Mace) Found at 坑道入口 (Shaft Entry), in the upper-left corner. Pot stats: 70% to appear, 35% gil, contents: Water Mote / Bronze Mace"
-        },
-        {
-          "kind": "paragraph",
-          "text": "備前長船 (Osafune) Found at 坑道入口 (Shaft Entry), in the lower-right corner of the lower horizontal hallway. Pot stats: 70% to appear, 40% gil, contents: Water Mote / Osafune"
-        },
-        {
-          "kind": "paragraph",
-          "text": "トプカプー帽 (Topkapi Hat) Found at オルタム橋 (Oltam Span), in a pot on the lower hallway, next to a trap. Pot stats: 75% to appear, 40% gil, contents: Dark Mote / Topkapi Hat"
-        },
-        {
-          "kind": "paragraph",
-          "text": "レザーヘッドギア (Leather Headgear) Found at 第1運路 (Transitway 1), along the main path. Pot stats: 70% to appear, 40% gil, contents: Aero Mote / Leather Headgear"
-        },
-        {
-          "kind": "paragraph",
-          "text": "蛇のロッド (Serpent Rod) Found at 第2鉱区採掘場 (Site 2), in a pot by the fence. Pot stats: 70% to appear, 30% gil, contents: Potion / Serpent Rod"
-        },
-        {
-          "kind": "paragraph",
-          "text": "デスペルの魔片 (Dispel Mote) Found at 第2鉱区採掘場 (Site 2) straight across from the Assassin's Dagger. Pot stats: 75% to appear, 30% gil, contents: Dispel Mote / Ether"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アサシンダガー (Assassin's Dagger) Found at 第2鉱区採掘場 (Site 2), right before the large, open area. Pot stats: 80% to appear, 30% gil, contents: Gravity Mote / Assassin's Dagger"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バトルバンブー (Battle Bamboo) Found at 第2鉱区採掘場 (Site 2), in the lower-left corner of the large open room. Pot stats: 70% to appear, 30% gil, contents: Chronos Tear / Battle Bamboo"
         }
       ],
       "relatedCodes": [
@@ -5280,6 +5171,16 @@
         "serpent-rod",
         "site-2",
         "assassin-s-dagger"
+      ],
+      "possibleUsefulItems": [
+        "ブロンズメイス (Bronze Mace) Found at 坑道入口 (Shaft Entry), in the upper-left corner. Pot stats: 70% to appear, 35% gil, contents: Water Mote / Bronze Mace",
+        "備前長船 (Osafune) Found at 坑道入口 (Shaft Entry), in the lower-right corner of the lower horizontal hallway. Pot stats: 70% to appear, 40% gil, contents: Water Mote / Osafune",
+        "トプカプー帽 (Topkapi Hat) Found at オルタム橋 (Oltam Span), in a pot on the lower hallway, next to a trap. Pot stats: 75% to appear, 40% gil, contents: Dark Mote / Topkapi Hat",
+        "レザーヘッドギア (Leather Headgear) Found at 第1運路 (Transitway 1), along the main path. Pot stats: 70% to appear, 40% gil, contents: Aero Mote / Leather Headgear",
+        "蛇のロッド (Serpent Rod) Found at 第2鉱区採掘場 (Site 2), in a pot by the fence. Pot stats: 70% to appear, 30% gil, contents: Potion / Serpent Rod",
+        "デスペルの魔片 (Dispel Mote) Found at 第2鉱区採掘場 (Site 2) straight across from the Assassin's Dagger. Pot stats: 75% to appear, 30% gil, contents: Dispel Mote / Ether",
+        "アサシンダガー (Assassin's Dagger) Found at 第2鉱区採掘場 (Site 2), right before the large, open area. Pot stats: 80% to appear, 30% gil, contents: Gravity Mote / Assassin's Dagger",
+        "バトルバンブー (Battle Bamboo) Found at 第2鉱区採掘場 (Site 2), in the lower-left corner of the large open room. Pot stats: 70% to appear, 30% gil, contents: Chronos Tear / Battle Bamboo"
       ]
     },
     "wt16b": {
@@ -6265,54 +6166,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "パルチザン (Partisan) Found at the bottom-left corner of 中層西ブロック (Port Section). Pot stats: 80% to appear, 20% gil, contents: Potion / Partisan"
-        },
-        {
-          "kind": "paragraph",
-          "text": "クロスボウ (Crossbow) Found at the far right end of 中層西ブロック (Port Section). Pot stats: 80% to appear, 20% gil, contents: Echo Herbs / Crossbow"
-        },
-        {
-          "kind": "paragraph",
-          "text": "チェインプレイト (Ringmail) Found at 大型コンテナ倉庫 (Large Freight Stores), in the upper-right corner. Pot stats: 80% to appear, 25% gil, contents: Eye Drops / Ringmail"
-        },
-        {
-          "kind": "paragraph",
-          "text": "羊飼いのボレロ (Shepherd's Bolero) Found at 大型コンテナ倉庫 (Large Freight Stores), in the lower-right corner. Pot stats: 80% to appear, 25% gil, contents: Handkerchief / Shepherd's Bolero"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アイアンアーマー (Iron Armor) Found at 中層東ブロック (Starboard Section), in the right-center part. Pot stats: 75% to appear, 40% gil, contents: Ether / Iron Armor"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アイアンヘルム (Iron Helm) Found a bit northwest of the Iron Armor pot. Pot stats: 75% to appear, 40% gil, contents: Ether / Iron Helm"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ヴェガ (Vega) Found at サブコントロールルーム (Sub-control Room), by the lower door. Pot stats: 80% to appear, 40% gil, contents: Potion / Vega"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ゾーリンブレイド (Zwill Blade) Found at サブコントロールルーム (Sub-control Room), next to the pot with the MPHP (Infuse) tech. Pot stats: 75% to appear, 35% gil, contents: Hi-Potion / Zwill Blade"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Do not worry about missing Sleep or Infuse; you can get them again in the next area. ウォースラ (Vossler) joins the party as a guest. Set up his gambits how you see fit. You'll also automatically receive the map, too."
-        },
-        {
-          "kind": "paragraph",
-          "text": "The place is pretty straightforward. You'll mainly fight guards and a couple of dogs. Avoid killing the dogs if you want to stock up on healing items like Phoenix Down."
-        },
-        {
-          "kind": "paragraph",
-          "text": "There are a number of items you can try to get for free here. Go through the east block (largest room) if you want the Sleep spell and Iron Armor/Helm, otherwise go to the circular room from the room between the west and east blocks. Make sure you grab the two リフレガの魔片 (Reflectga Mote)s in the pots too, as those can make a boss coming up in a while a lot easier."
-        },
-        {
-          "kind": "paragraph",
           "text": "Once in the circular room, go to the top part then back down. You'll fight some Judges and Imperial Swordsmen. Beat them and you will get the No. 1 Brig Key to unlock the door in the southwest part of the room."
         },
         {
@@ -6410,6 +6263,19 @@
         "slow",
         "nishijin-belt",
         "judge-ghis"
+      ],
+      "possibleUsefulItems": [
+        "パルチザン (Partisan) Found at the bottom-left corner of 中層西ブロック (Port Section). Pot stats: 80% to appear, 20% gil, contents: Potion / Partisan",
+        "クロスボウ (Crossbow) Found at the far right end of 中層西ブロック (Port Section). Pot stats: 80% to appear, 20% gil, contents: Echo Herbs / Crossbow",
+        "チェインプレイト (Ringmail) Found at 大型コンテナ倉庫 (Large Freight Stores), in the upper-right corner. Pot stats: 80% to appear, 25% gil, contents: Eye Drops / Ringmail",
+        "羊飼いのボレロ (Shepherd's Bolero) Found at 大型コンテナ倉庫 (Large Freight Stores), in the lower-right corner. Pot stats: 80% to appear, 25% gil, contents: Handkerchief / Shepherd's Bolero",
+        "アイアンアーマー (Iron Armor) Found at 中層東ブロック (Starboard Section), in the right-center part. Pot stats: 75% to appear, 40% gil, contents: Ether / Iron Armor",
+        "アイアンヘルム (Iron Helm) Found a bit northwest of the Iron Armor pot. Pot stats: 75% to appear, 40% gil, contents: Ether / Iron Helm",
+        "ヴェガ (Vega) Found at サブコントロールルーム (Sub-control Room), by the lower door. Pot stats: 80% to appear, 40% gil, contents: Potion / Vega",
+        "ゾーリンブレイド (Zwill Blade) Found at サブコントロールルーム (Sub-control Room), next to the pot with the MPHP (Infuse) tech. Pot stats: 75% to appear, 35% gil, contents: Hi-Potion / Zwill Blade",
+        "Do not worry about missing Sleep or Infuse; you can get them again in the next area. ウォースラ (Vossler) joins the party as a guest. Set up his gambits how you see fit. You'll also automatically receive the map, too.",
+        "The place is pretty straightforward. You'll mainly fight guards and a couple of dogs. Avoid killing the dogs if you want to stock up on healing items like Phoenix Down.",
+        "There are a number of items you can try to get for free here. Go through the east block (largest room) if you want the Sleep spell and Iron Armor/Helm, otherwise go to the circular room from the room between the west and east blocks. Make sure you grab the two リフレガの魔片 (Reflectga Mote)s in the pots too, as those can make a boss coming up in a while a lot easier."
       ]
     },
     "wt20a": {
@@ -7170,94 +7036,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ブージ (Bhuj) Found at 第1工場東側タンク (Platform 1-East Tanks), along the northern wall. Pot stats: 75% to appear, 50% gil, contents: Potion / Bhuj"
-        },
-        {
-          "kind": "paragraph",
-          "text": "魔法使いの杖 (Wizard's Staff) Found at 第1工場東側タンク (Platform 1-East Tanks), around the first ring. Pot stats: 75% to appear, 50% gil, contents: Ether / Wizard's Staff"
-        },
-        {
-          "kind": "paragraph",
-          "text": "古代の検 (Ancient Sword) Found at 第1石油工場 (Platform 1-Refinery), at the southern end of the area by a trap. Pot stats: 75% to appear, 35% gil, contents: Hi-Ether / Ancient Sword"
-        },
-        {
-          "kind": "paragraph",
-          "text": "金のアミュレット (Golden Amulet) Found at 第1石油工場 (Platform 1-Refinery), up the winding stairs section. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ポンチョ (Poncho) Found at 第1石油工場 (Platform 1-Refinery), close to the Golden Amulet. Pot stats: 75% to appear, 35% gil, contents: Hi-Potion / Poncho"
-        },
-        {
-          "kind": "paragraph",
-          "text": "キラーボウ (Killer Bow) Found at 第1石油工場 (Platform 1-Refinery), southwest section. Pot stats: 75% to appear, 35% gil, contents: Potion / Killer Bow"
-        },
-        {
-          "kind": "paragraph",
-          "text": "三角帽子 (Tri-Horn Hat) Found at 第1石油工場 (Platform 1-Refinery), southwest section. Pot stats: 75% to appear, 35% gil, contents: Gold Needle / Tri-Horn Hat"
-        },
-        {
-          "kind": "paragraph",
-          "text": "小烏丸 (Kogarasumaru) Found at 第1工場南側タンク (Platform 1-South Tanks), south of the eastern ring. Pot stats: 75% to appear, 40% gil, contents: Hi-Potion / Kogarasumaru"
-        },
-        {
-          "kind": "paragraph",
-          "text": "麝香勺 (Musk Stick) Found at 第1工場南側タンク (Platform 1-South Tanks), around the 3rd ring from the right. Pot stats: 70% to appear, 40% gil, contents: Hi-Potion / Musk Stick"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バルビュータ (Barbut) Found at 東ジャンクション (East Junction), around the third ring. Pot stats: 70% to appear, 30% gil, contents: Ether / Barbut"
-        },
-        {
-          "kind": "paragraph",
-          "text": "シリウス (Sirius) Found at 大型タンク基地 (Primary Tank Complex), around the very top-left ring. Pot stats: 80% to appear, 30% gil, contents: Remedy / Sirius"
-        },
-        {
-          "kind": "paragraph",
-          "text": "魔法使いの服 (Magician's Cloth) Found at 大型タンク基地 (Primary Tank Complex), around the 2nd ring in the middle row. Pot stats: 75% to appear, 20% gil, contents: Antidote / Magician's Cloth"
-        },
-        {
-          "kind": "paragraph",
-          "text": "リネンキュラッサ (Linen Cuirass) Found at 大型タンク基地 (Primary Tank Complex), around the southernmost ring. Pot stats: 75% to appear, 20% gil, contents: Phoenix Down / Linen Cuirass"
-        },
-        {
-          "kind": "paragraph",
-          "text": "メテオライト (Meteorite C) Found at 大型タンク基地 (Primary Tank Complex), in a pot right next to the Linen Cuirass one. Pot stats: 75% to appear, 20% gil, contents: Knot of Rust / Meteorite C Need ダイヤの腕輪 (Diamond Armlet) equipped, Meteorite C has 5% chance."
-        },
-        {
-          "kind": "paragraph",
-          "text": "パラミナボウ (Paramina Crossbow) Found at 中央ジャンクション (Central Junction), near the westernmost ring. Pot stats: 80% to appear, 50% gil, contents: Potion / Paramina Crossbow"
-        },
-        {
-          "kind": "paragraph",
-          "text": "閃光魔帽 (Lambent Hat) Found at 中央ジャンクション (Central Junction), around the southernmost ring. Pot stats: 80% to appear, 50% gil, contents: Hi-Potion / Lambent Hat"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ウォーワーカー (Soldier's Cap) Found at 中央ジャンクション (Central Junction), south of the easternmost ring. Pot stats: 80% to appear, 40% gil, contents: Hi-Potion / Soldier's Cap"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ゴールドシールド (Golden Shield) Found at 第2石油工場 (Platform 2-Refinery), west of the northwestern ring. Pot stats: 75% to appear, 25% gil, contents: Hi-Potion / Golden Shield"
-        },
-        {
-          "kind": "paragraph",
-          "text": "A quick note first if you are wanting to steal some of the loot mentioned below. Some of the steals appear to be rare or very rare, so if you do not mind waiting until after going through Raithwall's Tomb, you can get the accessory 盗賊のカフス (Thief's Cuffs), which increase the chances of stealing. It may save some time/annoyance if you wait. The choice is yours."
-        },
-        {
-          "kind": "paragraph",
-          "text": "This is the largest area so far, and the next one is similar in size. It's going to be quite a trek if you want to fully explore the area. There's lots of goodies here, too."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Make sure you grab the map to this and the next area. Both of the maps are found at 第1工場東側タンク (Platform 1-East Tanks), next to each other. Grab them to reduce some headaches. If you missed the スリプル (Sleep) spell or MPHP (Infuse) tech at the Leviathan, they will show up here now. As you get to the second screen, ウォースラ (Vossler) joins the group again. Make sure you adjust his gambits (he really likes to attack, it looks like)."
-        },
-        {
-          "kind": "paragraph",
           "text": "You'll run into a ton of ウルタネンサ族 (Urutan-Yensa)s in this area. If you chain them, you can get a lot of free Teleport Stones and Phoenix Down. A シカリ (Hunter) equipped with a グラディウス (Gladius) will tear them to shreds in 1 hit most likely. There's a pretty good spot here if you want to try getting some メテオライト (Meteorite C). Check above for the location."
         }
       ],
@@ -7295,6 +7073,29 @@
         "golden-shield",
         "thief-s-cuffs",
         "sleep"
+      ],
+      "possibleUsefulItems": [
+        "ブージ (Bhuj) Found at 第1工場東側タンク (Platform 1-East Tanks), along the northern wall. Pot stats: 75% to appear, 50% gil, contents: Potion / Bhuj",
+        "魔法使いの杖 (Wizard's Staff) Found at 第1工場東側タンク (Platform 1-East Tanks), around the first ring. Pot stats: 75% to appear, 50% gil, contents: Ether / Wizard's Staff",
+        "古代の検 (Ancient Sword) Found at 第1石油工場 (Platform 1-Refinery), at the southern end of the area by a trap. Pot stats: 75% to appear, 35% gil, contents: Hi-Ether / Ancient Sword",
+        "金のアミュレット (Golden Amulet) Found at 第1石油工場 (Platform 1-Refinery), up the winding stairs section. Pot stats: 100% to appear (no respawn after opening)",
+        "ポンチョ (Poncho) Found at 第1石油工場 (Platform 1-Refinery), close to the Golden Amulet. Pot stats: 75% to appear, 35% gil, contents: Hi-Potion / Poncho",
+        "キラーボウ (Killer Bow) Found at 第1石油工場 (Platform 1-Refinery), southwest section. Pot stats: 75% to appear, 35% gil, contents: Potion / Killer Bow",
+        "三角帽子 (Tri-Horn Hat) Found at 第1石油工場 (Platform 1-Refinery), southwest section. Pot stats: 75% to appear, 35% gil, contents: Gold Needle / Tri-Horn Hat",
+        "小烏丸 (Kogarasumaru) Found at 第1工場南側タンク (Platform 1-South Tanks), south of the eastern ring. Pot stats: 75% to appear, 40% gil, contents: Hi-Potion / Kogarasumaru",
+        "麝香勺 (Musk Stick) Found at 第1工場南側タンク (Platform 1-South Tanks), around the 3rd ring from the right. Pot stats: 70% to appear, 40% gil, contents: Hi-Potion / Musk Stick",
+        "バルビュータ (Barbut) Found at 東ジャンクション (East Junction), around the third ring. Pot stats: 70% to appear, 30% gil, contents: Ether / Barbut",
+        "シリウス (Sirius) Found at 大型タンク基地 (Primary Tank Complex), around the very top-left ring. Pot stats: 80% to appear, 30% gil, contents: Remedy / Sirius",
+        "魔法使いの服 (Magician's Cloth) Found at 大型タンク基地 (Primary Tank Complex), around the 2nd ring in the middle row. Pot stats: 75% to appear, 20% gil, contents: Antidote / Magician's Cloth",
+        "リネンキュラッサ (Linen Cuirass) Found at 大型タンク基地 (Primary Tank Complex), around the southernmost ring. Pot stats: 75% to appear, 20% gil, contents: Phoenix Down / Linen Cuirass",
+        "メテオライト (Meteorite C) Found at 大型タンク基地 (Primary Tank Complex), in a pot right next to the Linen Cuirass one. Pot stats: 75% to appear, 20% gil, contents: Knot of Rust / Meteorite C Need ダイヤの腕輪 (Diamond Armlet) equipped, Meteorite C has 5% chance.",
+        "パラミナボウ (Paramina Crossbow) Found at 中央ジャンクション (Central Junction), near the westernmost ring. Pot stats: 80% to appear, 50% gil, contents: Potion / Paramina Crossbow",
+        "閃光魔帽 (Lambent Hat) Found at 中央ジャンクション (Central Junction), around the southernmost ring. Pot stats: 80% to appear, 50% gil, contents: Hi-Potion / Lambent Hat",
+        "ウォーワーカー (Soldier's Cap) Found at 中央ジャンクション (Central Junction), south of the easternmost ring. Pot stats: 80% to appear, 40% gil, contents: Hi-Potion / Soldier's Cap",
+        "ゴールドシールド (Golden Shield) Found at 第2石油工場 (Platform 2-Refinery), west of the northwestern ring. Pot stats: 75% to appear, 25% gil, contents: Hi-Potion / Golden Shield",
+        "A quick note first if you are wanting to steal some of the loot mentioned below. Some of the steals appear to be rare or very rare, so if you do not mind waiting until after going through Raithwall's Tomb, you can get the accessory 盗賊のカフス (Thief's Cuffs), which increase the chances of stealing. It may save some time/annoyance if you wait. The choice is yours.",
+        "This is the largest area so far, and the next one is similar in size. It's going to be quite a trek if you want to fully explore the area. There's lots of goodies here, too.",
+        "Make sure you grab the map to this and the next area. Both of the maps are found at 第1工場東側タンク (Platform 1-East Tanks), next to each other. Grab them to reduce some headaches. If you missed the スリプル (Sleep) spell or MPHP (Infuse) tech at the Leviathan, they will show up here now. As you get to the second screen, ウォースラ (Vossler) joins the group again. Make sure you adjust his gambits (he really likes to attack, it looks like)."
       ]
     },
     "wt21b": {
@@ -7989,34 +7790,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "フライングヘルム (Winged Helm) Found at the closed-off area from Ogir-Yensa -> Zertinan Caverns, 風化する岸辺 (Withering Shores). Pot stats: 70% to appear, 55% gil, contents: Hi-Ether / Winged Helm"
-        },
-        {
-          "kind": "paragraph",
-          "text": "チェインメイル (Chainmail) Found at the closed-off area from Ogir-Yensa -> Zertinan Caverns, 風化する岸辺 (Withering Shores). Pot stats: 70% to appear, 55% gil, contents: Hi-Ether / Chainmail"
-        },
-        {
-          "kind": "paragraph",
-          "text": "亀のチョーカー (Turtleshell Choker) Found at the closed-off area from Ogir-Yensa -> Zertinan Caverns, 風化する岸辺 (Withering Shores). Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "~11,000 gil Found at ぬくもりの消える路 (Trail of Fading Warmth), next to the second bridge. Pot stats: 10% to appear, 10% gil, contents: Knot of Rust / Meteorite B Need Diamond Armlet equipped"
-        },
-        {
-          "kind": "paragraph",
-          "text": "雛のティーペット (Embroidered Tippet) Found at 熱風の下りる高台 (Simoon Bluff), around the northeastern ring. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "There are some decent equipment pots on the last screen before the next area, but they are all rather far away from the screen transition."
-        },
-        {
-          "kind": "paragraph",
           "text": "Speak to the moogle by the save crystal, choose the top answer, then move on. Two screens away, you should see a bunch of ウルタネンサ族 (Urutan- Yensa) guys beating up on a turtle, the ウルタニーター (Urutan Eater). Go ahead and beat them all up, then go back to the moogle by the save crystal. Talk to the moogle, then go east back into the Ogir-Yensa Sandsea."
         },
         {
@@ -8106,6 +7879,14 @@
         "simoon-bluff",
         "slime",
         "sagittarius-gem"
+      ],
+      "possibleUsefulItems": [
+        "フライングヘルム (Winged Helm) Found at the closed-off area from Ogir-Yensa -> Zertinan Caverns, 風化する岸辺 (Withering Shores). Pot stats: 70% to appear, 55% gil, contents: Hi-Ether / Winged Helm",
+        "チェインメイル (Chainmail) Found at the closed-off area from Ogir-Yensa -> Zertinan Caverns, 風化する岸辺 (Withering Shores). Pot stats: 70% to appear, 55% gil, contents: Hi-Ether / Chainmail",
+        "亀のチョーカー (Turtleshell Choker) Found at the closed-off area from Ogir-Yensa -> Zertinan Caverns, 風化する岸辺 (Withering Shores). Pot stats: 100% to appear (no respawn after opening)",
+        "~11,000 gil Found at ぬくもりの消える路 (Trail of Fading Warmth), next to the second bridge. Pot stats: 10% to appear, 10% gil, contents: Knot of Rust / Meteorite B Need Diamond Armlet equipped",
+        "雛のティーペット (Embroidered Tippet) Found at 熱風の下りる高台 (Simoon Bluff), around the northeastern ring. Pot stats: 100% to appear (no respawn after opening)",
+        "There are some decent equipment pots on the last screen before the next area, but they are all rather far away from the screen transition."
       ]
     },
     "wt23b": {
@@ -8223,22 +8004,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "詠唱のジュラーバ (Chanter's Djellaba) Go through the door by Dispel to 北翼の通廊 (Northfall Passage), then turn left. Pot stats: 80% to appear, 30% gil, contents: Warp Mote / Chanter's Djellaba"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アイスシールド (Ice Shield) On the far-right side of 南翼の通廊 (Southfall Passage), in a corner. Pot stats: 30% to appear, 80% gil, contents: Aeroga Mote / Ice Shield"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ロクスリーの弓 (Loxley Bow) Found at 南翼の通廊 (Southfall Passage) (Southfall Passage). Get a Lich in near-death status, and let it split. If it splits into another Lich, kill them both and find another Lich. Repeat until the キャルトリッチ (Cultsworn Lich) appears and steal it from him."
-        },
-        {
-          "kind": "paragraph",
           "text": "After a short stroll, you'll be greeted by the ガルーダ (Garuda). You can use the イクシロの実 (Eksir Berries) on it if you want, but ranged weapons, the Dark/Aero spells, and Knots of Rust can do the Garuda in quickly, too. The teleport crystal is straight ahead. Behind you is the shop guy from Nam-Yensa, selling the same stuff."
         },
         {
@@ -8293,6 +8058,11 @@
         "bat-wing",
         "tallow",
         "chanter-s-djellaba"
+      ],
+      "possibleUsefulItems": [
+        "詠唱のジュラーバ (Chanter's Djellaba) Go through the door by Dispel to 北翼の通廊 (Northfall Passage), then turn left. Pot stats: 80% to appear, 30% gil, contents: Warp Mote / Chanter's Djellaba",
+        "アイスシールド (Ice Shield) On the far-right side of 南翼の通廊 (Southfall Passage), in a corner. Pot stats: 30% to appear, 80% gil, contents: Aeroga Mote / Ice Shield",
+        "ロクスリーの弓 (Loxley Bow) Found at 南翼の通廊 (Southfall Passage) (Southfall Passage). Get a Lich in near-death status, and let it split. If it splits into another Lich, kill them both and find another Lich. Repeat until the キャルトリッチ (Cultsworn Lich) appears and steal it from him."
       ]
     },
     "wt24b": {
@@ -8564,66 +8334,6 @@
         {
           "kind": "paragraph",
           "text": "貼付 (Stamp) Found at 灰白のひさし (Rays of Ashen Light), in the fountain plant area."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ゴールドスタッフ (Golden Staff) Found at 頂きをのぞむ山道 (Summit Path), near the middle. Pot stats: 75% to appear, 40% gil, contents: Potion / Gold Staff"
-        },
-        {
-          "kind": "paragraph",
-          "text": "菊一文字 (Kiku-ichimonji) Found at 頂きをのぞむ山道 (Summit Path), in a northern nook. Pot stats: 75% to appear, 40% gil, contents: Bio Mote / Kiku-ichimonji"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アベンジャー (Avenger) Found at 灰白のひさし (Rays of Ashen Light), in the always-accessible section. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Avenger"
-        },
-        {
-          "kind": "paragraph",
-          "text": "盗賊のカフス (Thief's Cuffs) Found at 水音の伝わる処 (Babbling Vale), at the northern end. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "亀のチョーカー (Turtleshell Choker) Found at 水音の伝わる処 (Babbling Vale), on the western side. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダイヤアーマー (Diamond Armor) Found at 岩板のそびえる路 (Trail of Sky-flung Stone), on the right branch. Pot stats: 75% to appear, 40% gil, contents: Echo Herbs / Diamond Armor"
-        },
-        {
-          "kind": "paragraph",
-          "text": "黒装束 (Black Garb) Found at 岩板のそびえる路 (Trail of Sky-flung Stone), just north of the Diamond Armor. Pot stats: 75% to appear, 40% gil, contents: Echo Herbs / Black Garb"
-        },
-        {
-          "kind": "paragraph",
-          "text": "黒装束 (Black Garb) Found at 北の山すそ (Northern Skirts), by the フンババ (Humbaba)s. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Black Garb"
-        },
-        {
-          "kind": "paragraph",
-          "text": "メタルジャーキン (Metal Jerkin) Found at 北の山すそ (Northern Skirts), in the lower-left corner. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Metal Jerkin"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ドラゴンシールド (Dragon Shield) Found at 北の山すそ (Northern Skirts), by the ヴァルチャー (Vulture)s. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Dragon Shield"
-        },
-        {
-          "kind": "paragraph",
-          "text": "石の弓 (Giant Stonebow) Found at 北の山すそ (Northern Skirts), along the northern edge. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Giant Stonebow"
-        },
-        {
-          "kind": "paragraph",
-          "text": "First off, you cannot get neither the Stamp tech nor the Turtleshell Choker accessory yet, so don't freak out."
-        },
-        {
-          "kind": "paragraph",
-          "text": "There are two guards blocking the path to the west, but you may notice that the northwestern exit behind them is now blue. If you want to get past these guys, rent a chocobo nearby for 800 gil, then walk the chocobo up to the guards. One guard is deathly afraid of the birds, so he runs off, and the other guard chases after him. You are now free to explore the area they were blocking, a good while before you normally could."
-        },
-        {
-          "kind": "paragraph",
-          "text": "There are a whole lot of free upgrades to grab here and the two connecting areas. I tend to go from the Mosphoran Highwaste to the Salikawood if I need to, then the Dalmasca Estersand."
         }
       ],
       "relatedCodes": [
@@ -8636,6 +8346,22 @@
         "diamond-armor",
         "dragon-shield",
         "giant-stonebow"
+      ],
+      "possibleUsefulItems": [
+        "ゴールドスタッフ (Golden Staff) Found at 頂きをのぞむ山道 (Summit Path), near the middle. Pot stats: 75% to appear, 40% gil, contents: Potion / Gold Staff",
+        "菊一文字 (Kiku-ichimonji) Found at 頂きをのぞむ山道 (Summit Path), in a northern nook. Pot stats: 75% to appear, 40% gil, contents: Bio Mote / Kiku-ichimonji",
+        "アベンジャー (Avenger) Found at 灰白のひさし (Rays of Ashen Light), in the always-accessible section. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Avenger",
+        "盗賊のカフス (Thief's Cuffs) Found at 水音の伝わる処 (Babbling Vale), at the northern end. Pot stats: 100% to appear (no respawn after opening)",
+        "亀のチョーカー (Turtleshell Choker) Found at 水音の伝わる処 (Babbling Vale), on the western side. Pot stats: 100% to appear (no respawn after opening)",
+        "ダイヤアーマー (Diamond Armor) Found at 岩板のそびえる路 (Trail of Sky-flung Stone), on the right branch. Pot stats: 75% to appear, 40% gil, contents: Echo Herbs / Diamond Armor",
+        "黒装束 (Black Garb) Found at 岩板のそびえる路 (Trail of Sky-flung Stone), just north of the Diamond Armor. Pot stats: 75% to appear, 40% gil, contents: Echo Herbs / Black Garb",
+        "黒装束 (Black Garb) Found at 北の山すそ (Northern Skirts), by the フンババ (Humbaba)s. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Black Garb",
+        "メタルジャーキン (Metal Jerkin) Found at 北の山すそ (Northern Skirts), in the lower-left corner. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Metal Jerkin",
+        "ドラゴンシールド (Dragon Shield) Found at 北の山すそ (Northern Skirts), by the ヴァルチャー (Vulture)s. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Dragon Shield",
+        "石の弓 (Giant Stonebow) Found at 北の山すそ (Northern Skirts), along the northern edge. Pot stats: 70% to appear, 40% gil, contents: Echo Herbs / Giant Stonebow",
+        "First off, you cannot get neither the Stamp tech nor the Turtleshell Choker accessory yet, so don't freak out.",
+        "There are two guards blocking the path to the west, but you may notice that the northwestern exit behind them is now blue. If you want to get past these guys, rent a chocobo nearby for 800 gil, then walk the chocobo up to the guards. One guard is deathly afraid of the birds, so he runs off, and the other guard chases after him. You are now free to explore the area they were blocking, a good while before you normally could.",
+        "There are a whole lot of free upgrades to grab here and the two connecting areas. I tend to go from the Mosphoran Highwaste to the Salikawood if I need to, then the Dalmasca Estersand."
       ]
     },
     "wt26b": {
@@ -8751,34 +8477,6 @@
         {
           "kind": "paragraph",
           "text": "勧誘 (Charm) Found at いやしの響く路 (Quietland Trace), southwest of the teleport crystal."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ゴクウの棒 (Gokuu Pole) Found at 巨木に囲まれた路 (Trunkwall Road), north of the map. Pot stats: 75% to appear, 55% gil, contents: Ether / Gokuu Pole"
-        },
-        {
-          "kind": "paragraph",
-          "text": "錯乱のメイス (Chaos Mace) Found at 巨木に囲まれた路 (Trunkwall Road), far north of the map. Pot stats: 75% to appear, 55% gil, contents: Ether / Chaos Mace"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バスタードソード (Bastard Sword) Found at 別離の路 (Diverging Way), on a western branch. Pot stats: 65% to appear, 55% gil, contents: Ether / Bastard Sword"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ラス・アルゲティ (Ras Algethi) Found at 別離の路 (Diverging Way), at the northeastern end. Pot stats: 65% to appear, 55% gil, contents: Ether / Ras Algethi"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アダマン帽 (Adamant Hat) Found at 白きまだらの路 (Piebald Path), on the eastern branch. Pot stats: 75% to appear, 50% gil, contents: Ether / Adamant Hat"
-        },
-        {
-          "kind": "paragraph",
-          "text": "There is not much to do right now at the Salikawood. There are a few items you can grab if you are using a job that can equip light armor. The Charm tech is here, too."
         }
       ],
       "relatedCodes": [
@@ -8788,6 +8486,14 @@
         "gokuu-pole",
         "bastard-sword",
         "adamant-hat"
+      ],
+      "possibleUsefulItems": [
+        "ゴクウの棒 (Gokuu Pole) Found at 巨木に囲まれた路 (Trunkwall Road), north of the map. Pot stats: 75% to appear, 55% gil, contents: Ether / Gokuu Pole",
+        "錯乱のメイス (Chaos Mace) Found at 巨木に囲まれた路 (Trunkwall Road), far north of the map. Pot stats: 75% to appear, 55% gil, contents: Ether / Chaos Mace",
+        "バスタードソード (Bastard Sword) Found at 別離の路 (Diverging Way), on a western branch. Pot stats: 65% to appear, 55% gil, contents: Ether / Bastard Sword",
+        "ラス・アルゲティ (Ras Algethi) Found at 別離の路 (Diverging Way), at the northeastern end. Pot stats: 65% to appear, 55% gil, contents: Ether / Ras Algethi",
+        "アダマン帽 (Adamant Hat) Found at 白きまだらの路 (Piebald Path), on the eastern branch. Pot stats: 75% to appear, 50% gil, contents: Ether / Adamant Hat",
+        "There is not much to do right now at the Salikawood. There are a few items you can grab if you are using a job that can equip light armor. The Charm tech is here, too."
       ]
     },
     "wt27b": {
@@ -8863,34 +8569,6 @@
       "narrative": [
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バーサーカー (Armguard) Found at 断裂の砂地 (Broken Sands), near the Mosphoran Highwaste exit. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダイヤヘルム (Diamond Helm) Found at 断裂の砂地 (Broken Sands), southwest from the Armguard pot. Pot stats: 80% to appear, 50% gil, contents: Remedy / Diamond Helm"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ドラゴンシールド (Dragon Shield) Found at 断裂の砂地 (Broken Sands), southwest from the Diamond Helm pot. Pot stats: 80% to appear, 35% gil, contents: Ether / Dragon Shield"
-        },
-        {
-          "kind": "paragraph",
-          "text": "オベリスク (Obelisk) Found at 断裂の砂地 (Broken Sands), northwest of the southern exit. Pot stats: 80% to appear, 35% gil, contents: Ether / Obelisk"
-        },
-        {
-          "kind": "paragraph",
-          "text": "黒頭巾 (Black Cowl) Found at 断裂の砂地 (Broken Sands), northeast of the southern exit. Pot stats: 80% to appear, 35% gil, contents: Dispel Mote / Black Cowl"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ハンマーヘッド (Hammerhead) Found at ヨーマ大砂丘 (The Yoma), on the northwestern edge of the screen. Pot stats: 75% to appear, 35% gil, contents: Eye Drops / Hammerhead"
-        },
-        {
-          "kind": "paragraph",
           "text": "You are now at the northern end of the Estersand (beating the Earth Tyrant also lets you get here). There are only three new screens here, but there are some helpful things you can grab here, and to get back into the Barheim Passage for even more good stuff!"
         }
       ],
@@ -8902,6 +8580,14 @@
         "dragon-shield",
         "broken-sands",
         "hammerhead"
+      ],
+      "possibleUsefulItems": [
+        "バーサーカー (Armguard) Found at 断裂の砂地 (Broken Sands), near the Mosphoran Highwaste exit. Pot stats: 100% to appear (no respawn after opening)",
+        "ダイヤヘルム (Diamond Helm) Found at 断裂の砂地 (Broken Sands), southwest from the Armguard pot. Pot stats: 80% to appear, 50% gil, contents: Remedy / Diamond Helm",
+        "ドラゴンシールド (Dragon Shield) Found at 断裂の砂地 (Broken Sands), southwest from the Diamond Helm pot. Pot stats: 80% to appear, 35% gil, contents: Ether / Dragon Shield",
+        "オベリスク (Obelisk) Found at 断裂の砂地 (Broken Sands), northwest of the southern exit. Pot stats: 80% to appear, 35% gil, contents: Ether / Obelisk",
+        "黒頭巾 (Black Cowl) Found at 断裂の砂地 (Broken Sands), northeast of the southern exit. Pot stats: 80% to appear, 35% gil, contents: Dispel Mote / Black Cowl",
+        "ハンマーヘッド (Hammerhead) Found at ヨーマ大砂丘 (The Yoma), on the northwestern edge of the screen. Pot stats: 75% to appear, 35% gil, contents: Eye Drops / Hammerhead"
       ]
     },
     "wt28b": {
@@ -9120,34 +8806,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "デスブリンガー (Deathbringer) Found at 第5特別作業区 (Special Op Sector 5), stolen from the rare monster ターゲッター (Ithuno)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "メイスオブゼウス (Zeus Mace) Found at 東西バイパス (East-West Bypass), dropped by the rare monster ミニマムバグ (Mini Bug)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "影縫い (Kagenui) Found at ゼバイア連結橋 (The Zeviah Span), at the southeastern part of the room. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "村雨 (Murasame) Found at 西部新坑道区 (West Annex), on the eastern side of the room by some traps. Pot stats: 90% to appear, 50% gil, contents: Red Fang / Murasame"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ふわふわミトラ (Fuzzy Miter) Found at 西部新坑道区 (West Annex), around the south-center of the room. Pot stats: 90% to appear, 50% gil, contents: Reflectga Mote / Fuzzy Miter"
-        },
-        {
-          "kind": "paragraph",
-          "text": "カメオのベルト (Cameo Belt) Found at 第7ターミナル接続路 (Terminus No. 7 Adjunct), southeast of the save crystal. Pot stats: 25% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
           "text": "You will wind up at the southern end of the Barheim Passage. If you look carefully, you will notice that the save crystal to the north is now a teleport crystal. Go there to add the Barheim Passage to the warping list. If you are starting to run low on サビのカタマリ (Knot of Rust) items (to toss at flying enemies), the 2 screens south of the teleport crystal are a prime spot, as there are about seven or eight quickly accessed pots to stock up. You may also find a Meteorite C on the southern screen and Meteorite B on the northern one."
         },
         {
@@ -9177,6 +8835,14 @@
         "east-west-bypass",
         "cameo-belt",
         "knot-of-rust"
+      ],
+      "possibleUsefulItems": [
+        "デスブリンガー (Deathbringer) Found at 第5特別作業区 (Special Op Sector 5), stolen from the rare monster ターゲッター (Ithuno).",
+        "メイスオブゼウス (Zeus Mace) Found at 東西バイパス (East-West Bypass), dropped by the rare monster ミニマムバグ (Mini Bug).",
+        "影縫い (Kagenui) Found at ゼバイア連結橋 (The Zeviah Span), at the southeastern part of the room. Pot stats: 100% to appear (no respawn after opening)",
+        "村雨 (Murasame) Found at 西部新坑道区 (West Annex), on the eastern side of the room by some traps. Pot stats: 90% to appear, 50% gil, contents: Red Fang / Murasame",
+        "ふわふわミトラ (Fuzzy Miter) Found at 西部新坑道区 (West Annex), around the south-center of the room. Pot stats: 90% to appear, 50% gil, contents: Reflectga Mote / Fuzzy Miter",
+        "カメオのベルト (Cameo Belt) Found at 第7ターミナル接続路 (Terminus No. 7 Adjunct), southeast of the save crystal. Pot stats: 25% to appear (no respawn after opening)"
       ]
     },
     "wt30b": {
@@ -9543,30 +9209,6 @@
         {
           "kind": "paragraph",
           "text": "暗闇殺法 (Sight Unseeing) Found at 地の森 (Canopy of Clay)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "盗賊のカフス (Thief's Cuffs) Found at 海の止まり (The Undershore), in the hidden area past the save crystal. Pot stats: 25% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バイオの魔片 (Bio Mote) Found at 砂時計の谷 (Hourglass Basin), via the hidden area past the save crystal. Pot stats: 90% to appear, 15% gil, contents: Bio Mote / Miter"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダイヤの腕輪 (Diamond Armlet) Found at 砂落ちる闇 (Sandfalls), past a few quicksand holes. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "First off: BEWARE OF アルケオエイビス (ARCHEOAVIS). They have been *super buffed* and can wipe you out in one attack. You can find them in the central room with the map to the dungeon, バラムカ断層 (The Balamka Fault)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "The Zertinan Caverns hold a plethora of useful loot. Because of this, I am writing down all the loot I go for in chronological order for the way I go"
         }
       ],
       "relatedCodes": [
@@ -9585,6 +9227,13 @@
         "slime",
         "aries-gems",
         "bomb-fragment"
+      ],
+      "possibleUsefulItems": [
+        "盗賊のカフス (Thief's Cuffs) Found at 海の止まり (The Undershore), in the hidden area past the save crystal. Pot stats: 25% to appear (no respawn after opening)",
+        "バイオの魔片 (Bio Mote) Found at 砂時計の谷 (Hourglass Basin), via the hidden area past the save crystal. Pot stats: 90% to appear, 15% gil, contents: Bio Mote / Miter",
+        "ダイヤの腕輪 (Diamond Armlet) Found at 砂落ちる闇 (Sandfalls), past a few quicksand holes. Pot stats: 100% to appear (no respawn after opening)",
+        "First off: BEWARE OF アルケオエイビス (ARCHEOAVIS). They have been *super buffed* and can wipe you out in one attack. You can find them in the central room with the map to the dungeon, バラムカ断層 (The Balamka Fault).",
+        "The Zertinan Caverns hold a plethora of useful loot. Because of this, I am writing down all the loot I go for in chronological order for the way I go"
       ]
     },
     "wt32b": {
@@ -11744,14 +11393,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダークエナジー (Dark Energy) Found at 神殿境内 (Temple Grounds), down some stairs at the eastern side. Pot stats: 5% to appear, 80% gil, contents: *Knot of Rust / *Dark Energy Need Diamond Armlet equipped on Vaan and he is party leader."
-        },
-        {
-          "kind": "paragraph",
           "text": "Check out the shops, as they should have some new things to purchase. Buy three 舫結びのガロン (Bowline Sash)es, as they prevent 混乱 (Confuse). You can buy Curaga, Blizzara, Berserk, and Darkra here if you'd like. If you want the map to the Paramina Rift and/or Bur-Omisace, speak to the moogle right past the teleport crystal. The map for the Paramina Rift costs 3200 gil, and Bur-Omisace's a measly 15."
         },
         {
@@ -11803,6 +11444,9 @@
         "eye-drops",
         "potion",
         "confuse"
+      ],
+      "possibleUsefulItems": [
+        "ダークエナジー (Dark Energy) Found at 神殿境内 (Temple Grounds), down some stairs at the eastern side. Pot stats: 5% to appear, 80% gil, contents: *Knot of Rust / *Dark Energy Need Diamond Armlet equipped on Vaan and he is party leader."
       ]
     },
     "wt41b": {
@@ -11898,46 +11542,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "~65,000 gil Found at 対面の守護 (Ward of Velitation), along the northern wall by the teleport. Chest stats: 5% to appear, 5% gil, contents: *Knot of Rust / *Meteorite B *Needs Diamond Armlet equipped (will get a Potion / Potion otherwise)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ラストエリクサー (Megalixir) Found at 対面の守護 (Ward of Velitation), along the southern wall by the teleport. Chest stats: 10% to appear, 95% gil, contents: Megalixir / Potion"
-        },
-        {
-          "kind": "paragraph",
-          "text": "シェルシールド (Shell Shield) Take the secret path from 剣王の守護 (Ward of the Sword-King) to reach the chest. Chest stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ルビーの指輪 (Ruby Ring) Found at 遠謀の回廊 (Walk of Prescience). Chest stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "パワーロッド (Power Rod) Found at 条理の回廊 (Walk of Reason), in a chest at the top-center part. Chest stats: 75% to appear, 50% gil, contents: Phoenix Down / Power Rod"
-        },
-        {
-          "kind": "paragraph",
-          "text": "賢者の指輪 (Sage Ring) Found at 鋼鉄の守護 (Ward of Steel). Chest stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Kill the bats in the way, then equip the 暁の断片 (Dawn Shard) onto the party leader. Use the pedestal across from the entrance door (2nd choice) and you will be transported to a new part of Miriam."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Watch out for the statue behind you, and run ahead to where three ドラゴネイビス (Dragon Aevis) are. The chest they are surrounding has the カウント (Countdown) spell."
-        },
-        {
-          "kind": "paragraph",
-          "text": "There is another pedestal after some more statues. Re-equip the Dawn Shard and use the pedestal. Go back to where the Dragon Aevis monsters were. You will see a door along the northern and southern parts of the room; open whichever one you want, since they lead to the same area."
-        },
-        {
-          "kind": "paragraph",
           "text": "You'll see a green save crystal. Interact with it and it will attack you! Beat up the クリスタルバグ (Crystalbug) and a real save crystal will appear. Go directly west of the save crystal after saving."
         },
         {
@@ -12001,6 +11605,17 @@
         "obelisk",
         "hunting-crossbow",
         "vinuskar"
+      ],
+      "possibleUsefulItems": [
+        "~65,000 gil Found at 対面の守護 (Ward of Velitation), along the northern wall by the teleport. Chest stats: 5% to appear, 5% gil, contents: *Knot of Rust / *Meteorite B *Needs Diamond Armlet equipped (will get a Potion / Potion otherwise)",
+        "ラストエリクサー (Megalixir) Found at 対面の守護 (Ward of Velitation), along the southern wall by the teleport. Chest stats: 10% to appear, 95% gil, contents: Megalixir / Potion",
+        "シェルシールド (Shell Shield) Take the secret path from 剣王の守護 (Ward of the Sword-King) to reach the chest. Chest stats: 100% to appear (no respawn after opening)",
+        "ルビーの指輪 (Ruby Ring) Found at 遠謀の回廊 (Walk of Prescience). Chest stats: 100% to appear (no respawn after opening)",
+        "パワーロッド (Power Rod) Found at 条理の回廊 (Walk of Reason), in a chest at the top-center part. Chest stats: 75% to appear, 50% gil, contents: Phoenix Down / Power Rod",
+        "賢者の指輪 (Sage Ring) Found at 鋼鉄の守護 (Ward of Steel). Chest stats: 100% to appear (no respawn after opening)",
+        "Kill the bats in the way, then equip the 暁の断片 (Dawn Shard) onto the party leader. Use the pedestal across from the entrance door (2nd choice) and you will be transported to a new part of Miriam.",
+        "Watch out for the statue behind you, and run ahead to where three ドラゴネイビス (Dragon Aevis) are. The chest they are surrounding has the カウント (Countdown) spell.",
+        "There is another pedestal after some more statues. Re-equip the Dawn Shard and use the pedestal. Go back to where the Dragon Aevis monsters were. You will see a door along the northern and southern parts of the room; open whichever one you want, since they lead to the same area."
       ]
     },
     "wt42b": {
@@ -12573,26 +12188,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "甲賀忍刀 (Koga Blade) Found at 第3鉱区採掘場 (Site 3), in the northwestern corner. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "伊賀忍刀 (Iga Blade) Found at 第9鉱区採掘場 (Site 9), along the southern wall. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Where you want to go to use the Site 3 Key is the 'end' of the dungeon, where you fought the Rocktoise mark earlier. On the second screen, you will see エルロン (Yrlon) who then runs further into the mine."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Upon reaching the room where the Rocktoise was, use the Site 3 Key on the gate to get to the new section of the Lhusu Mines."
-        },
-        {
-          "kind": "paragraph",
           "text": "You can find two ninja blades in the new part of the Lhusu Mines, the 甲賀忍刀 (Koga Blade) and 伊賀忍刀 (Iga Blade). In the first new room, 第3鉱区採掘場 (Site 3), check the northwestern alcove to find the Koga Blade, which has an earth elemental-attack. Take the lower eastern exit to continue on. At 第2鉱区採掘場 (Site 2), be sure to go all the way to the right first, so you can lower the fence that links to the earlier part of the area."
         },
         {
@@ -12630,6 +12225,12 @@
         "disable",
         "expose",
         "bubble-belt"
+      ],
+      "possibleUsefulItems": [
+        "甲賀忍刀 (Koga Blade) Found at 第3鉱区採掘場 (Site 3), in the northwestern corner. Pot stats: 100% to appear (no respawn after opening)",
+        "伊賀忍刀 (Iga Blade) Found at 第9鉱区採掘場 (Site 9), along the southern wall. Pot stats: 100% to appear (no respawn after opening)",
+        "Where you want to go to use the Site 3 Key is the 'end' of the dungeon, where you fought the Rocktoise mark earlier. On the second screen, you will see エルロン (Yrlon) who then runs further into the mine.",
+        "Upon reaching the room where the Rocktoise was, use the Site 3 Key on the gate to get to the new section of the Lhusu Mines."
       ]
     },
     "wt44b": {
@@ -13380,14 +12981,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アダマン帽 (Adamant Hat) Found at 白きまだらの路 (Piebald Path), on the eastern branch. Pot stats: 75% to appear, 50% gil, contents: Ether / Adamant Hat"
-        },
-        {
-          "kind": "paragraph",
           "text": "If you have been here already, you want to go to the ???? on the far-right end of the area (from the entrance you want to go north, north, east, east)."
         },
         {
@@ -13417,6 +13010,9 @@
       ],
       "itemsReferenced": [
         "adamant-hat"
+      ],
+      "possibleUsefulItems": [
+        "アダマン帽 (Adamant Hat) Found at 白きまだらの路 (Piebald Path), on the eastern branch. Pot stats: 75% to appear, 50% gil, contents: Ether / Adamant Hat"
       ]
     },
     "wt46b": {
@@ -13738,58 +13334,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "エルメスのくつ (Hermes' Shoes) Found at 光満ちる回廊 (Hall of Effulgent Light), in a pot by the Silencega spell. Pot stats: 25% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ペネトレーター (Penetrator Crossbow) Found at 光満ちる回廊 (Hall of Effulgent Light), in the southwestern part of the floor. Pot stats: 30% to appear, 30% gil, contents: Knot of Rust / Penetrator X-Bow"
-        },
-        {
-          "kind": "paragraph",
-          "text": "白の仮面 (White Mask) Found at 美しき調べの間 (Cloister of Distant Song), in the southwestern part of the floor. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "黒のローブ (Black Robe) Found at 気高き者たちの間 (Cloister of the Highborn), in the center room. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "血塗られた盾 (Ensanguined Shield) Found at 気高き者たちの間 (Cloister of the Highborn), in the northern part of the area. Pot stats: 3% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "エアリアル (Zephyr Pole) Found at 白き約束の回廊 (Hall of the Ivory Covenant), at the northern section. Pot stats: 30% to appear, 30% gil, contents: Knot of Rust / Zephyr Pole"
-        },
-        {
-          "kind": "paragraph",
-          "text": "時限のメイス (Doom Mace) Found at 力宿る回廊 (Hall of Slumbering Might), in the southwestern corner. Pot stats: 30% to appear, 30% gil, contents: Knot of Rust / Doom Mace"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Something to note: unless it is one of the \"100% and will not respawn\" pots, the majority of the pots here have a pretty low appearance rate of 30 and 35 percent. There are 45 treasures/pots in the area, but you may see around 12 in a whole trip through."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Ahh, Nabudis. Be very careful in here. There are a bunch of great things to find, as well as lots of monsters in the way. You'll run into a lot of バクナムス族 (Baknamy) guys. They can appear out of nowhere and bum rush you. Keep your HP and defenses up. Baknamies are weak to ice, so if you can cast ブリザラ (Blizzara), blast them with it. They like to dodge, so equipping a カメオのベルト (Cameo Belt) can be very useful."
-        },
-        {
-          "kind": "paragraph",
-          "text": "There is only one staircase on each floor, so directions are not too important here. I will note some good stuff to look for, however. Also to note is that you can steal リバースの魔片 (Reverse Mote)s from the エルヴィオレ (Elvoret) monsters. Reverse Motes are very rare, so try to steal as many as you can. Elvorets can also drop マクシミリアン (Maximilian), the second-strongest heavy armor in the game (64 defense)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "First up, go to the far northwestern part of the floor and through the part of the floor off the map. You will find the サイレガ (Silencega) spell in a pot here, and maybe エルメスのくつ (Hermes' Shoes). If you are using a Time Mage, the third-strongest bowgun, the ペネトレーター (Penetrator Crossbow), can be found on this floor by the stairs going to 2F."
-        },
-        {
-          "kind": "paragraph",
-          "text": "If the Hermes' Shoes/Penetrator Crossbow pots are not there (25%/30% chance), go to the next floor and come back to try again. Once you have looked around and are ready, proceed to the second floor/screen."
-        },
-        {
-          "kind": "paragraph",
           "text": "Go around to the left part of the floor and grab the White Mask from the pot there. The White Mask has 56 magic defense and absorbs holy-elemental damage. Very nice. Proceed along until you see some of those big stone tower guys, バビル (Babil)s. Destroy them then go towards the door on the far left. You cannot open the 恐怖の扉 (Door of Horror) yet, but the プロテガ (Protectga) spell will be in a pot nearby. Go on ahead to the third floor."
         },
         {
@@ -13864,6 +13408,20 @@
         "staff-of-the-magi",
         "grand-armor",
         "faith"
+      ],
+      "possibleUsefulItems": [
+        "エルメスのくつ (Hermes' Shoes) Found at 光満ちる回廊 (Hall of Effulgent Light), in a pot by the Silencega spell. Pot stats: 25% to appear (no respawn after opening)",
+        "ペネトレーター (Penetrator Crossbow) Found at 光満ちる回廊 (Hall of Effulgent Light), in the southwestern part of the floor. Pot stats: 30% to appear, 30% gil, contents: Knot of Rust / Penetrator X-Bow",
+        "白の仮面 (White Mask) Found at 美しき調べの間 (Cloister of Distant Song), in the southwestern part of the floor. Pot stats: 100% to appear (no respawn after opening)",
+        "黒のローブ (Black Robe) Found at 気高き者たちの間 (Cloister of the Highborn), in the center room. Pot stats: 100% to appear (no respawn after opening)",
+        "血塗られた盾 (Ensanguined Shield) Found at 気高き者たちの間 (Cloister of the Highborn), in the northern part of the area. Pot stats: 3% to appear (no respawn after opening)",
+        "エアリアル (Zephyr Pole) Found at 白き約束の回廊 (Hall of the Ivory Covenant), at the northern section. Pot stats: 30% to appear, 30% gil, contents: Knot of Rust / Zephyr Pole",
+        "時限のメイス (Doom Mace) Found at 力宿る回廊 (Hall of Slumbering Might), in the southwestern corner. Pot stats: 30% to appear, 30% gil, contents: Knot of Rust / Doom Mace",
+        "Something to note: unless it is one of the \"100% and will not respawn\" pots, the majority of the pots here have a pretty low appearance rate of 30 and 35 percent. There are 45 treasures/pots in the area, but you may see around 12 in a whole trip through.",
+        "Ahh, Nabudis. Be very careful in here. There are a bunch of great things to find, as well as lots of monsters in the way. You'll run into a lot of バクナムス族 (Baknamy) guys. They can appear out of nowhere and bum rush you. Keep your HP and defenses up. Baknamies are weak to ice, so if you can cast ブリザラ (Blizzara), blast them with it. They like to dodge, so equipping a カメオのベルト (Cameo Belt) can be very useful.",
+        "There is only one staircase on each floor, so directions are not too important here. I will note some good stuff to look for, however. Also to note is that you can steal リバースの魔片 (Reverse Mote)s from the エルヴィオレ (Elvoret) monsters. Reverse Motes are very rare, so try to steal as many as you can. Elvorets can also drop マクシミリアン (Maximilian), the second-strongest heavy armor in the game (64 defense).",
+        "First up, go to the far northwestern part of the floor and through the part of the floor off the map. You will find the サイレガ (Silencega) spell in a pot here, and maybe エルメスのくつ (Hermes' Shoes). If you are using a Time Mage, the third-strongest bowgun, the ペネトレーター (Penetrator Crossbow), can be found on this floor by the stairs going to 2F.",
+        "If the Hermes' Shoes/Penetrator Crossbow pots are not there (25%/30% chance), go to the next floor and come back to try again. Once you have looked around and are ready, proceed to the second floor/screen."
       ]
     },
     "wt48a": {
@@ -13902,26 +13460,6 @@
         {
           "kind": "paragraph",
           "text": "デジョン (Warp) Found at 命消えし水辺 (Lifeless Strand), in the off-the-map area along the northern wall."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "オパールの指輪 (Opal Ring) Found at 命消えし水辺 (Lifeless Strand), south of the eastern exit. Pot stats: 25% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "下町のカルバドス (Spirit of Lowtown) Found at 命消えし水辺 (Lifeless Strand), on the western part of the area. Pot stats: 75% to appear, 40% gil, contents: Phoenix Down / Spirit of Lowtown"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Treasure-wise, there is not much to get at the Nabreus Deadlands. However, loot-wise, there is a *whole lot* here. I'll try to go in appearance order from the Nabudis exit to the Salikawood exit."
-        },
-        {
-          "kind": "paragraph",
-          "text": "In the first room, 滅びし王家の広場 (Field of the Fallen Lord), head north a bit and you should see a シールドドラゴン (Shield Dragon). This guy has 2 types of loot to get if you are grabbing the stuff in this guide, but it's a bit easier if you wait until a later area. If you walk along the northern wall, you will find a pot with a クロススケール (Cross Scale) inside. Machinists can smack themselves/allies to cast バニシュ (Vanish) onto the target."
         }
       ],
       "relatedCodes": [
@@ -13932,6 +13470,12 @@
       "itemsReferenced": [
         "opal-ring",
         "shield-dragon"
+      ],
+      "possibleUsefulItems": [
+        "オパールの指輪 (Opal Ring) Found at 命消えし水辺 (Lifeless Strand), south of the eastern exit. Pot stats: 25% to appear (no respawn after opening)",
+        "下町のカルバドス (Spirit of Lowtown) Found at 命消えし水辺 (Lifeless Strand), on the western part of the area. Pot stats: 75% to appear, 40% gil, contents: Phoenix Down / Spirit of Lowtown",
+        "Treasure-wise, there is not much to get at the Nabreus Deadlands. However, loot-wise, there is a *whole lot* here. I'll try to go in appearance order from the Nabudis exit to the Salikawood exit.",
+        "In the first room, 滅びし王家の広場 (Field of the Fallen Lord), head north a bit and you should see a シールドドラゴン (Shield Dragon). This guy has 2 types of loot to get if you are grabbing the stuff in this guide, but it's a bit easier if you wait until a later area. If you walk along the northern wall, you will find a pot with a クロススケール (Cross Scale) inside. Machinists can smack themselves/allies to cast バニシュ (Vanish) onto the target."
       ]
     },
     "wt48b": {
@@ -14806,14 +14350,6 @@
       "narrative": [
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "裁きの杖 (Judicer's Staff) Found at リマタラの丘 (Limatra Hills), along the eastern edge of the area. Pot stats: 70% to appear, 50% gil, contents: Hi-Potion / Judicer's Staff"
-        },
-        {
-          "kind": "paragraph",
           "text": "Head southeast twice, then east once to arrive at the teleport crystal/shop area. For those Machinists out there, try to steal a マルチスケール (Mutliscale) from the バドゥ (Bagoly)s. Smack allies with it to grant the ブレイブ (Bravery) buff."
         },
         {
@@ -14929,6 +14465,9 @@
         "gaia-rod",
         "morgen",
         "giant-s-helmet"
+      ],
+      "possibleUsefulItems": [
+        "裁きの杖 (Judicer's Staff) Found at リマタラの丘 (Limatra Hills), along the eastern edge of the area. Pot stats: 70% to appear, 50% gil, contents: Hi-Potion / Judicer's Staff"
       ]
     },
     "wt50b": {
@@ -15319,26 +14858,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "桜囀り (Sakura-Saezuri) Found at 時の水洞 (Falls of Time), at the end of the 'swirl maze'. Pot stats: 100% to appear (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "The second-strongest shield in the game is here, but you cannot get it yet. Head north to the door, which is unlocked by the 封魂のカギ (Soul Ward Key)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Buff yourself before opening the door, then go on in. You will run into the five creatures on that wanted poster from the Tchita Uplands. Say hello to the マンドラプリンス (Mandragora Prince), キングアルラウネ (Alraune King), オニオンクイーン (Onion Queen), パンプキンスター (Pumpkin Star), and トマトキャプテン (Topstalk)!"
-        },
-        {
-          "kind": "paragraph",
-          "text": "These guys love inflicting status ailments, ganging up on characters, then running away like a decapitated chicken. Each veggie can use a status attack that inflicts Sleep, Slow, and Poison. Having a 西陣の帯 (Nishijin Belt) equipped on each party member will allow you to stay awake."
-        },
-        {
-          "kind": "paragraph",
           "text": "You *can* go for an instant kill if you choose to perform a mist combo as soon as the battle starts, and you do enough hits/a good enough finisher to kill all 5 veggies outright."
         },
         {
@@ -15407,6 +14926,12 @@
         "sakura-saezuri",
         "firaga",
         "death-sentence"
+      ],
+      "possibleUsefulItems": [
+        "桜囀り (Sakura-Saezuri) Found at 時の水洞 (Falls of Time), at the end of the 'swirl maze'. Pot stats: 100% to appear (no respawn after opening)",
+        "The second-strongest shield in the game is here, but you cannot get it yet. Head north to the door, which is unlocked by the 封魂のカギ (Soul Ward Key).",
+        "Buff yourself before opening the door, then go on in. You will run into the five creatures on that wanted poster from the Tchita Uplands. Say hello to the マンドラプリンス (Mandragora Prince), キングアルラウネ (Alraune King), オニオンクイーン (Onion Queen), パンプキンスター (Pumpkin Star), and トマトキャプテン (Topstalk)!",
+        "These guys love inflicting status ailments, ganging up on characters, then running away like a decapitated chicken. Each veggie can use a status attack that inflicts Sleep, Slow, and Poison. Having a 西陣の帯 (Nishijin Belt) equipped on each party member will allow you to stay awake."
       ]
     },
     "wt53a": {
@@ -16524,18 +16049,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "リバースの魔片 / エアロガの魔片 (Reverse Mote / Aeroga Mote) Found on 第70階層 (70F), in the same room as Gil Toss. Pot stats: 50% to appear, 0% gil, contents: Reverse Mote / Aeroga Mote"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Ok, I'm going to be honest, I really hate this area. Thankfully, in this version of the game, every single pot before 70F contains one of two Motes aside from one with a クレイモア (Claymore) on the 67th floor. The very first pot in the next area also has a Claymore, so if you can wait literally 10 minutes ahead in the game, you can get a Claymore anyway."
-        },
-        {
-          "kind": "paragraph",
           "text": "If you are interested in mote farming, here is what each floor has. All pots here have a 0% chance of gil, so without the Diamond Armlet equipped, you will get one of two motes:"
         },
         {
@@ -16627,7 +16140,11 @@
           "text": "After a chunk of his life bar is removed, Cid will walk to the southern end of the room and do his special attack. If you block him, you can delay it for a little bit. Upon defeating him, Cid will tell you where to go next and you will wind up in a new town."
         }
       ],
-      "relatedCodes": []
+      "relatedCodes": [],
+      "possibleUsefulItems": [
+        "リバースの魔片 / エアロガの魔片 (Reverse Mote / Aeroga Mote) Found on 第70階層 (70F), in the same room as Gil Toss. Pot stats: 50% to appear, 0% gil, contents: Reverse Mote / Aeroga Mote",
+        "Ok, I'm going to be honest, I really hate this area. Thankfully, in this version of the game, every single pot before 70F contains one of two Motes aside from one with a クレイモア (Claymore) on the 67th floor. The very first pot in the next area also has a Claymore, so if you can wait literally 10 minutes ahead in the game, you can get a Claymore anyway."
+      ]
     },
     "wt56a": {
       "code": "wt56a",
@@ -18060,46 +17577,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "おろち (Orochi) Found at 第11鉱区採掘場 (Site 11), in the southwestern part of the room. Pot stats: 90% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "リジェネモリオン (Renewing Morion) Found at 第11鉱区採掘場 (Site 11), in northwestern corner of the room. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "竜の髭 (Dragon Whisker) Found at ラッシェ橋 (Lasche Span) around the middle of the bridge. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ビブロスの骨 (Bone of Byblos) Found at 第5鉱区採掘場 (Site 5), in the northwestern corner. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "光のスティフォス (Glimmering Robes) Found at 第5鉱区採掘場 (Site 5), in the southeastern corner. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "鯨の髭 (Whale Whisker) Found at 第6鉱区北採掘場 (Site 6 North), in the hidden northern room. Pot stats: 100% to appear, %0 has gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "魔力のシシャーク (Magepower Shishak) Found at 第6鉱区南採掘場 (Site 6 South), in the northeastern alcove. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "マサムネ (Masamune) Found at 第7鉱区採掘場 (Site 7), at the back of the room. Pot stats: 100% to appear, 0% has gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Wow, there are a lot of high-tier weapons to find here! As it is easy to get them to show (25% isn't that bad), make sure you grab any of the above weapons that can be equipped by your party."
-        },
-        {
-          "kind": "paragraph",
           "text": "Go west from the teleport crystal, then southwest to a fence (pretty close to where you fought the Antlion earlier). Use the Site 11 Key to open the fence."
         },
         {
@@ -18122,6 +17599,17 @@
       "itemsReferenced": [
         "glimmering-robes",
         "renewing-morion"
+      ],
+      "possibleUsefulItems": [
+        "おろち (Orochi) Found at 第11鉱区採掘場 (Site 11), in the southwestern part of the room. Pot stats: 90% to appear, 0% gil (no respawn after opening)",
+        "リジェネモリオン (Renewing Morion) Found at 第11鉱区採掘場 (Site 11), in northwestern corner of the room. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "竜の髭 (Dragon Whisker) Found at ラッシェ橋 (Lasche Span) around the middle of the bridge. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "ビブロスの骨 (Bone of Byblos) Found at 第5鉱区採掘場 (Site 5), in the northwestern corner. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "光のスティフォス (Glimmering Robes) Found at 第5鉱区採掘場 (Site 5), in the southeastern corner. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "鯨の髭 (Whale Whisker) Found at 第6鉱区北採掘場 (Site 6 North), in the hidden northern room. Pot stats: 100% to appear, %0 has gil (no respawn after opening)",
+        "魔力のシシャーク (Magepower Shishak) Found at 第6鉱区南採掘場 (Site 6 South), in the northeastern alcove. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "マサムネ (Masamune) Found at 第7鉱区採掘場 (Site 7), at the back of the room. Pot stats: 100% to appear, 0% has gil (no respawn after opening)",
+        "Wow, there are a lot of high-tier weapons to find here! As it is easy to get them to show (25% isn't that bad), make sure you grab any of the above weapons that can be equipped by your party."
       ]
     },
     "wt58b": {
@@ -18440,22 +17928,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "金のアミュレット (Golden Amulet) Found at 白魔の愛でし路 (White Magick's Embrace), near the southern exit. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バブルチェーン (Bubble Belt) Found at 英知の氷原 (Ice Field of Clearsight), around the center of the area. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "守りの指輪 (Ring of Renewal) Rare poach of the キラートマト (Deadly Nightshade)."
-        },
-        {
-          "kind": "paragraph",
           "text": "If you've been here before, you need to go south from the save crystal. If you have not been here yet, the save crystal is south, then southeast from the Golmore Jungle exit. I would suggest going back to the section of the guide that goes through the first half of the Feywood earlier for some items and loot mentioned there."
         },
         {
@@ -18512,6 +17984,11 @@
         "rafflesia",
         "sickle-blade",
         "reflectga"
+      ],
+      "possibleUsefulItems": [
+        "金のアミュレット (Golden Amulet) Found at 白魔の愛でし路 (White Magick's Embrace), near the southern exit. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "バブルチェーン (Bubble Belt) Found at 英知の氷原 (Ice Field of Clearsight), around the center of the area. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "守りの指輪 (Ring of Renewal) Rare poach of the キラートマト (Deadly Nightshade)."
       ]
     },
     "wt61a": {
@@ -18550,14 +18027,6 @@
         {
           "kind": "paragraph",
           "text": "スリプガ (Sleepga) Found at 水層都市ハルミカ (The Haalmikah Water-Steps), before the blue save crystal."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "イージスの盾 (Aegis Shield) Found at 水層都市アウダ (The Aadha Water-Steps), at the southwestern part of the area. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
         },
         {
           "kind": "paragraph",
@@ -18609,6 +18078,9 @@
         "aegis-shield",
         "blood-sword",
         "sleepga"
+      ],
+      "possibleUsefulItems": [
+        "イージスの盾 (Aegis Shield) Found at 水層都市アウダ (The Aadha Water-Steps), at the southwestern part of the area. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
       ]
     },
     "wt62a": {
@@ -18631,30 +18103,18 @@
           "type": "image"
         }
       ],
-      "narrative": [
-        {
-          "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ホーリーロッド (Holy Rod) Found at ベルム・ピス・サ (Bhrum Pis Avaa), around Way Stone VI (6). Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "All right. Crystal Grande/The Great Crystal. First off, there is NO in-game map for this area. Second, this whole region is just a bunch of circular-shaped rooms with barriers and green bridges. Each Way-Stone goes by a Roman numeral. Hopefully we can get through here. Just in case, here is a map I made a long time ago to get me through:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "The teleporter you came from is VIII. Face the teleporter (called a Way Stone from here on out), then spin the screen to the left (right on the right analog). Walk towards the empty space to make a green bridge, and walk along it to get to the next screen."
-        }
-      ],
+      "narrative": [],
       "relatedCodes": [
         "wt62b",
         "wt62c"
       ],
       "itemsReferenced": [
         "holy-rod"
+      ],
+      "possibleUsefulItems": [
+        "ホーリーロッド (Holy Rod) Found at ベルム・ピス・サ (Bhrum Pis Avaa), around Way Stone VI (6). Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "All right. Crystal Grande/The Great Crystal. First off, there is NO in-game map for this area. Second, this whole region is just a bunch of circular-shaped rooms with barriers and green bridges. Each Way-Stone goes by a Roman numeral. Hopefully we can get through here. Just in case, here is a map I made a long time ago to get me through:",
+        "The teleporter you came from is VIII. Face the teleporter (called a Way Stone from here on out), then spin the screen to the left (right on the right analog). Walk towards the empty space to make a green bridge, and walk along it to get to the next screen."
       ]
     },
     "wt62b": {
@@ -19176,50 +18636,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ローレルクラウン (Crown of Laurels) Found at シルル・フロウェン・ノウェ (Sirhru Phullam Udiipratii), in Area 2, 1 screen away from Way Stone XIV (14). Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "メテオライト (Meteorite D) Found in pots that can spawn after collecting any non-respawning item in The Great Crystal 2. Equip the ダイヤの腕輪 (Diamond Armlet) for 5% chance at Meteorite D. Pot stats: 5% to appear, 10% gil No Diamond Armlet: メテオライト (Meteorite B) / メテオライト (Meteorite C) With Diamond Armlet: メテオライト (Meteorite A) / メテオライト (Meteorite D)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "柳生の漆黒 (Yagyu Darkblade) Found at シルル・ザイレム・ウェサ (Sirhru Jilaam Pratii'vaa), in Area 2. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "賢者の杖 (Staff of the Magi) Found at シルル・フロウェン・イサ (Sirhru Phullam Praa'vaa), in Area 2, 2 screens away from Way Stone XIII (13). Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ラバーコンシャス (Rubber Suit) Found at シルル・ザイレム・イサ (Sirhru Jilaam Praa'vaa), in Area 2, one screen past the 1st Gemini Gate. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "守りの指輪 (Ring of Renewal) Found at オルドビ・フロウェン・ノイ (Uldobi Phullam Udiipraa), in Area 3, one screen away from the Capricorn Gate Stone. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "エクスカリバー (Excalibur) Found at クリスタル・ピーク (Crystal Peak), in Area 4. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ジャンダルム (Gendarme) Take the Excalibur, then leave and return to try spawning the Gendarme pot. Pot stats: 1% to appear, 20% has gil -NEED DIAMOND ARMLET EQUIPPED (5%)-"
-        },
-        {
-          "kind": "paragraph",
-          "text": "It's not called The Great Crystal 2 in the game, but it makes it easier to differentiate between the two sections. This new part of the Great Crystal is a really large and very, very confusing area. I made a map for the area, showing where the シェルガ (Shellga) and ヘイスガ (Hastega) spells are found, as well as the アルテマ (Ultima) summon. You can find it here:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Let's begin with Area 1."
-        },
-        {
-          "kind": "paragraph",
           "text": "You'll have Way Stone X (10) behind you. There's only one way to go here, so take the gap bridge. Way Stone XX (20) will be ahead, and you will see a green barrier on each side of the screen. Take the first bridge gap on the left, and you'll find a pot holding a マールコニーデ (Caldera)."
         },
         {
@@ -19349,6 +18765,18 @@
         "hastega",
         "caliper",
         "artemis-bow"
+      ],
+      "possibleUsefulItems": [
+        "ローレルクラウン (Crown of Laurels) Found at シルル・フロウェン・ノウェ (Sirhru Phullam Udiipratii), in Area 2, 1 screen away from Way Stone XIV (14). Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "メテオライト (Meteorite D) Found in pots that can spawn after collecting any non-respawning item in The Great Crystal 2. Equip the ダイヤの腕輪 (Diamond Armlet) for 5% chance at Meteorite D. Pot stats: 5% to appear, 10% gil No Diamond Armlet: メテオライト (Meteorite B) / メテオライト (Meteorite C) With Diamond Armlet: メテオライト (Meteorite A) / メテオライト (Meteorite D)",
+        "柳生の漆黒 (Yagyu Darkblade) Found at シルル・ザイレム・ウェサ (Sirhru Jilaam Pratii'vaa), in Area 2. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "賢者の杖 (Staff of the Magi) Found at シルル・フロウェン・イサ (Sirhru Phullam Praa'vaa), in Area 2, 2 screens away from Way Stone XIII (13). Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "ラバーコンシャス (Rubber Suit) Found at シルル・ザイレム・イサ (Sirhru Jilaam Praa'vaa), in Area 2, one screen past the 1st Gemini Gate. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "守りの指輪 (Ring of Renewal) Found at オルドビ・フロウェン・ノイ (Uldobi Phullam Udiipraa), in Area 3, one screen away from the Capricorn Gate Stone. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "エクスカリバー (Excalibur) Found at クリスタル・ピーク (Crystal Peak), in Area 4. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "ジャンダルム (Gendarme) Take the Excalibur, then leave and return to try spawning the Gendarme pot. Pot stats: 1% to appear, 20% has gil -NEED DIAMOND ARMLET EQUIPPED (5%)-",
+        "It's not called The Great Crystal 2 in the game, but it makes it easier to differentiate between the two sections. This new part of the Great Crystal is a really large and very, very confusing area. I made a map for the area, showing where the シェルガ (Shellga) and ヘイスガ (Hastega) spells are found, as well as the アルテマ (Ultima) summon. You can find it here:",
+        "Let's begin with Area 1."
       ]
     },
     "wt65b": {
@@ -20066,58 +19494,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "エレメスのくつ (Hermes' Shoes) Found at 始原の層 外外郭 (Wellspring Labyrinth), on 02F, on the right side of the area. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "黒の仮面 (Black Mask) Found at 至次の境域 (Horizon's Cusp), on 49F, right before the door. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "黒のローブ (Black Robes) Rare poach from the スプラッシュ (Mistmare)."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Ok. The First Ascent. 01F. If you go south along the ring by the orange teleport crystal, you'll see one of the 3 pillar things that you need to activate to advance. Try to use it and you will be asked for a 黒の珠 (Black Orb). Let's go get some Black Orbs. Head back to the Way Stone by the orange teleport crystal, and take the southern doorway."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Kill whatever monsters you see, and they will sometimes \"drop\" a floating blue orb, this is a Black Orb. Once you have 3 of them, you do not need to pick up any more if you do not want to. To reach the map for the First Ascent, you need to go the the southeastern part of the area you are at, then go back to the west along the southern side. Here's a picture of where the"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Where you want to go is the room at the east-central part of the floor. You can't open the 黒の扉 (Black Door) until you activate the three mechanisms that each need a Black Orb. So after you get the map, head to that small, cut-off 'island' section of the southeastern part of the large O-ring."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Use a Black Orb to get the mechanism working. Now go back to the center room with the teleport crystal, and use the first mechanism by the rockslide at the southeastern part of the O-ring. The third mechanism is along the northern part of the ring, via the northern section of the area. After you've activated all 3, you can open that door at the right-center part of the floor. Don't forget to grab the エレメスのくつ (Hermes' Shoes) directly across from the door, then go through."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Just in case, here is a screencap of all 3 mechanisms:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "Upon opening the door, the party will be whisked away to some outdoor-looking area. Just head up the hill and to the end to meet up with パンデモニウム (Pandaemonium). This giant turtle is weak to wind-elemental attacks, so use whichever ones you have after removing his buffs. A Nihopalaoa'd Remedy will inflict Confuse, Silence, and Oil on Pandaemonium. Any other element than wind does 0 damage to it, besides earth, which heals him."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Pandaemonium likes to inflict Blind and Slow, so equipping an Argyle Armlet and/or Sash can reduce the curing time for the party. When Pandaemonium is at around 33%HP, he will use 魔法障壁 (Paling) and 完全マバリア (Magick Shield), which makes him completely invulnerable. Use this time to re-buff your party members, then destroy him when it wears off."
-        },
-        {
-          "kind": "paragraph",
-          "text": "By beating Pandaemonium, you can now use the Way Stone by the orange teleport crystal. You'll now be at 10F. Take either door, and when you see the first set of キメラブライン (Chimera Brain)s, go straight up on the map and break the fake wall to find a pot holding a デモンズシールド (Demon Shield). Now go up the stairs to be greeted by some コジャ (Brainpan)s."
-        },
-        {
-          "kind": "paragraph",
-          "text": "As you kill each Brainpan, some green squares will fall into a gap, making a bridge. That's how this section works. There are green and red bridges to be made. Killing a コジャ (Brainpan) will add one section to a green bridge or remove a section of a red bridge, while killing a デイダラ (Deidar) will do the opposite; add a red bridge section or remove a green section. Once a bridge is complete, it cannot be undone. The green bridges are needed to advance through the dungeon, while a couple of red ones will lead to some possibly lost-forever pots containing things like a Gungnir spear and the Holy spell. Let's try to get everything."
-        },
-        {
-          "kind": "paragraph",
           "text": "After the 2-segment green bridge, you'll need to find 4 Brainpans for the green bridge on 14F. At 23F/24F, you can break through the 2 fake walls there to find a pot holding a シャプロンの帽子 (Chaperon). The next bridge is a green one on 25F. You need to create 6 segments to complete the bridge."
         },
         {
@@ -20145,6 +19521,20 @@
         "magick-shield",
         "brainpan",
         "perseus-bow"
+      ],
+      "possibleUsefulItems": [
+        "エレメスのくつ (Hermes' Shoes) Found at 始原の層 外外郭 (Wellspring Labyrinth), on 02F, on the right side of the area. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "黒の仮面 (Black Mask) Found at 至次の境域 (Horizon's Cusp), on 49F, right before the door. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "黒のローブ (Black Robes) Rare poach from the スプラッシュ (Mistmare).",
+        "Ok. The First Ascent. 01F. If you go south along the ring by the orange teleport crystal, you'll see one of the 3 pillar things that you need to activate to advance. Try to use it and you will be asked for a 黒の珠 (Black Orb). Let's go get some Black Orbs. Head back to the Way Stone by the orange teleport crystal, and take the southern doorway.",
+        "Kill whatever monsters you see, and they will sometimes \"drop\" a floating blue orb, this is a Black Orb. Once you have 3 of them, you do not need to pick up any more if you do not want to. To reach the map for the First Ascent, you need to go the the southeastern part of the area you are at, then go back to the west along the southern side. Here's a picture of where the",
+        "Where you want to go is the room at the east-central part of the floor. You can't open the 黒の扉 (Black Door) until you activate the three mechanisms that each need a Black Orb. So after you get the map, head to that small, cut-off 'island' section of the southeastern part of the large O-ring.",
+        "Use a Black Orb to get the mechanism working. Now go back to the center room with the teleport crystal, and use the first mechanism by the rockslide at the southeastern part of the O-ring. The third mechanism is along the northern part of the ring, via the northern section of the area. After you've activated all 3, you can open that door at the right-center part of the floor. Don't forget to grab the エレメスのくつ (Hermes' Shoes) directly across from the door, then go through.",
+        "Just in case, here is a screencap of all 3 mechanisms:",
+        "Upon opening the door, the party will be whisked away to some outdoor-looking area. Just head up the hill and to the end to meet up with パンデモニウム (Pandaemonium). This giant turtle is weak to wind-elemental attacks, so use whichever ones you have after removing his buffs. A Nihopalaoa'd Remedy will inflict Confuse, Silence, and Oil on Pandaemonium. Any other element than wind does 0 damage to it, besides earth, which heals him.",
+        "Pandaemonium likes to inflict Blind and Slow, so equipping an Argyle Armlet and/or Sash can reduce the curing time for the party. When Pandaemonium is at around 33%HP, he will use 魔法障壁 (Paling) and 完全マバリア (Magick Shield), which makes him completely invulnerable. Use this time to re-buff your party members, then destroy him when it wears off.",
+        "By beating Pandaemonium, you can now use the Way Stone by the orange teleport crystal. You'll now be at 10F. Take either door, and when you see the first set of キメラブライン (Chimera Brain)s, go straight up on the map and break the fake wall to find a pot holding a デモンズシールド (Demon Shield). Now go up the stairs to be greeted by some コジャ (Brainpan)s.",
+        "As you kill each Brainpan, some green squares will fall into a gap, making a bridge. That's how this section works. There are green and red bridges to be made. Killing a コジャ (Brainpan) will add one section to a green bridge or remove a section of a red bridge, while killing a デイダラ (Deidar) will do the opposite; add a red bridge section or remove a green section. Once a bridge is complete, it cannot be undone. The green bridges are needed to advance through the dungeon, while a couple of red ones will lead to some possibly lost-forever pots containing things like a Gungnir spear and the Holy spell. Let's try to get everything."
       ]
     },
     "wt68c": {
@@ -20267,18 +19657,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ガストラフェテS (Gastrophetes-S) Found at 受難の層 (Station of Suffering), on 62F, in the northwestern quadrant. Pot stats: 100% to appear, 0% gil (no repsawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ムラマサ (Muramasa) Found at 験真の封域 (The Bounds of Truth), on 65F, to the left of the door. Pot stats: 100% to appear, 0% gil (no repsawn after opening)"
-        },
-        {
-          "kind": "paragraph",
           "text": "You'll be at 60F now. If you go across to the left side of the large O-ring, you will find a blue save crystal. At the four corners of the O-ring, you will also see a locked door and a pedestal next to it. In order to get through this part of Ridorana, you must take one of the penalties/seals from a pillar. Here's what color they are, the penalty, and where you wind up on the next floor:"
         },
         {
@@ -20317,6 +19695,10 @@
         "crusader",
         "zeus-mace",
         "gastrophetes-s"
+      ],
+      "possibleUsefulItems": [
+        "ガストラフェテS (Gastrophetes-S) Found at 受難の層 (Station of Suffering), on 62F, in the northwestern quadrant. Pot stats: 100% to appear, 0% gil (no repsawn after opening)",
+        "ムラマサ (Muramasa) Found at 験真の封域 (The Bounds of Truth), on 65F, to the left of the door. Pot stats: 100% to appear, 0% gil (no repsawn after opening)"
       ]
     },
     "wt68e": {
@@ -20445,26 +19827,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "白のローブ (White Robe) Found at 至頂の旋回廊2 (Spire Ravel - 2nd Flight), on 83F, in front of you where you get warped to from 81F. Pot stats: 100% to appear, 0% gil (no repsawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "アルテマブレイド (Ultima Blade) Found at 至頂の旋回廊2 (Spire Ravel - 2nd Flight), on 84F, by the アイロネート (Aeronite)s. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ダークマター (Dark Matter) Found at 至天の旋回廊 (Empyrean Ravel), on 91F, next to the 100% pot holding a Dark Matter. Pot stats: 3% to appear, 0% gil, only has Dark Matter inside"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ラストエリクサー (Megalixir) Found at 至天の旋回廊 (Empyrean Ravel), on 95F/96F, next to the 100% pot holding a Megalixir. Pot stats: 2% to appear, 0% gil, only has a Megalixir inside"
-        },
-        {
-          "kind": "paragraph",
           "text": "You'll be at 80F now. Almost there! This place is pretty maze-like, with different colored teleports. If you do not want to get any of the above mentioned stuff, the Way Stones you need to use are in this order: black, green, red, the color of the penalty you took on 2nd Ascent, and then white. Of course, I'm going to try to go through to get all of the goodies."
         },
         {
@@ -20524,6 +19886,12 @@
         "ardor",
         "elixir",
         "grand-helm"
+      ],
+      "possibleUsefulItems": [
+        "白のローブ (White Robe) Found at 至頂の旋回廊2 (Spire Ravel - 2nd Flight), on 83F, in front of you where you get warped to from 81F. Pot stats: 100% to appear, 0% gil (no repsawn after opening)",
+        "アルテマブレイド (Ultima Blade) Found at 至頂の旋回廊2 (Spire Ravel - 2nd Flight), on 84F, by the アイロネート (Aeronite)s. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "ダークマター (Dark Matter) Found at 至天の旋回廊 (Empyrean Ravel), on 91F, next to the 100% pot holding a Dark Matter. Pot stats: 3% to appear, 0% gil, only has Dark Matter inside",
+        "ラストエリクサー (Megalixir) Found at 至天の旋回廊 (Empyrean Ravel), on 95F/96F, next to the 100% pot holding a Megalixir. Pot stats: 2% to appear, 0% gil, only has a Megalixir inside"
       ]
     },
     "wt68g": {
@@ -20787,74 +20155,6 @@
         },
         {
           "kind": "paragraph",
-          "text": "Possible useful items:"
-        },
-        {
-          "kind": "paragraph",
-          "text": "デュエルマスク (Duel Mask) Found at 第2期採掘現場 (Phase 2 Dig), west of the map. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "フォーマルハウト (Fomalhaut) Found at 第2期採掘現場 (Phase 2 Dig), next to the map. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ニホパラオア (Nihopalaoa) Found at 第2期採掘現場 (Phase 2 Dig), in an off-the-map alcove. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "グランドヘルム (Grand Helm) Found at 第2期採掘現場 (Phase 2 Dig), west of the pot with the Nihopalaoa. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "サークレット (Circlet) Found at 第2期採掘現場 (Phase 2 Dig), in an off-the-map T-shaped area. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ブルカノ式T (Volcano T) Found at 第2期採掘現場 (Phase 2 Dig), south of the Circlet pot. Pot stats: 100% to appear, 0% gil (no respawn after opening) CHECK **Note below"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バイオの魔片 (Bio Mote) / ホーリーの魔片 (Holy Mote) Found at 第2期採掘現場 (Phase 2 Dig), in the southwestern corner. Pot stats: 75% to appear, 50% gil"
-        },
-        {
-          "kind": "paragraph",
-          "text": "バブルチェーン (Bubble Belt) Found at 区間連結ラインC (Crossover C), northwest of the first red fence. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ブルカノ式T (Volcano T) Found at 第2期坑道 (Phase 2 Shaft), east of the アビス (Abysteel) room. Pot stats: 100% to appear, 0% gil (no respawn after opening) CHECK **Note below"
-        },
-        {
-          "kind": "paragraph",
-          "text": "最強の矛 (Zodiac Spear) Found at 特殊採掘坑 (Special Charter Shaft), on the southern stairs. Pot stats: 1% to appear, 0% gil"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ブレイブスーツ (Brave Suit) Found at 特殊採掘坑 (Special Charter Shaft), on the eastern side. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "リボン (Ribbon) Found at 特殊採掘坑 (Special Charter Shaft), in the northeastern alcove. Pot stats: 15% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "グランドアーマー (Grand Armor) Found at 特殊採掘坑 (Special Charter Shaft), northwest of the Ribbon pot. Pot stats: 25% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "ローブオブーロード (Lordly Robes) Found at 特殊採掘坑 (Special Charter Shaft), in the far western alcove. Pot stats: 100% to appear, 0% gil (no respawn after opening)"
-        },
-        {
-          "kind": "paragraph",
-          "text": "**Note: There are 2 pots containing the ブルカノ式T (Volcano T), but once you get the weapon from either pot, both pots vanish. There's only one Volcano T to get."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Upon warping to the Henne Mines, head north to where you fought Tiamat. There should now be a door going east that wasn't unlocked before. Head that way to the new, much tougher section of the Henne Mines."
-        },
-        {
-          "kind": "paragraph",
           "text": "Go directly east until you see an alcove to the north, and one to the south that doesn't show up on the map (a lot of this dungeon is like that). Remember those 20,000HP bats that were pretty tough awhile ago? Those アビス (Abysteel)s? They are normal enemies here."
         },
         {
@@ -20927,6 +20227,24 @@
         "sleepga",
         "uhlan",
         "addle"
+      ],
+      "possibleUsefulItems": [
+        "デュエルマスク (Duel Mask) Found at 第2期採掘現場 (Phase 2 Dig), west of the map. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "フォーマルハウト (Fomalhaut) Found at 第2期採掘現場 (Phase 2 Dig), next to the map. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "ニホパラオア (Nihopalaoa) Found at 第2期採掘現場 (Phase 2 Dig), in an off-the-map alcove. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "グランドヘルム (Grand Helm) Found at 第2期採掘現場 (Phase 2 Dig), west of the pot with the Nihopalaoa. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "サークレット (Circlet) Found at 第2期採掘現場 (Phase 2 Dig), in an off-the-map T-shaped area. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "ブルカノ式T (Volcano T) Found at 第2期採掘現場 (Phase 2 Dig), south of the Circlet pot. Pot stats: 100% to appear, 0% gil (no respawn after opening) CHECK **Note below",
+        "バイオの魔片 (Bio Mote) / ホーリーの魔片 (Holy Mote) Found at 第2期採掘現場 (Phase 2 Dig), in the southwestern corner. Pot stats: 75% to appear, 50% gil",
+        "バブルチェーン (Bubble Belt) Found at 区間連結ラインC (Crossover C), northwest of the first red fence. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "ブルカノ式T (Volcano T) Found at 第2期坑道 (Phase 2 Shaft), east of the アビス (Abysteel) room. Pot stats: 100% to appear, 0% gil (no respawn after opening) CHECK **Note below",
+        "最強の矛 (Zodiac Spear) Found at 特殊採掘坑 (Special Charter Shaft), on the southern stairs. Pot stats: 1% to appear, 0% gil",
+        "ブレイブスーツ (Brave Suit) Found at 特殊採掘坑 (Special Charter Shaft), on the eastern side. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "リボン (Ribbon) Found at 特殊採掘坑 (Special Charter Shaft), in the northeastern alcove. Pot stats: 15% to appear, 0% gil (no respawn after opening)",
+        "グランドアーマー (Grand Armor) Found at 特殊採掘坑 (Special Charter Shaft), northwest of the Ribbon pot. Pot stats: 25% to appear, 0% gil (no respawn after opening)",
+        "ローブオブーロード (Lordly Robes) Found at 特殊採掘坑 (Special Charter Shaft), in the far western alcove. Pot stats: 100% to appear, 0% gil (no respawn after opening)",
+        "**Note: There are 2 pots containing the ブルカノ式T (Volcano T), but once you get the weapon from either pot, both pots vanish. There's only one Volcano T to get.",
+        "Upon warping to the Henne Mines, head north to where you fought Tiamat. There should now be a door going east that wasn't unlocked before. Head that way to the new, much tougher section of the Henne Mines."
       ]
     },
     "wt70b": {
